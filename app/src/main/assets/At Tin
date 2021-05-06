@@ -1,0 +1,272 @@
+<html>
+
+
+
+
+<head>
+
+<style>
+section{
+    
+   
+    border-bottom:solid;
+    
+
+    
+}
+
+h2{
+
+  font-size:10px;
+  display:none;
+  
+}
+
+.verse-number{
+text-align:left;
+font-size:35px;
+margin:10px;
+
+  
+
+
+}
+
+
+.quran-content{
+
+ font-family:Courier New;
+font-size:35px;
+margin:10px;
+text-align:right;
+
+
+}
+
+
+p{
+
+text-align:left;
+margin:10px;
+font-size:20px;
+
+}
+ section:nth-child(even){
+        
+    }
+
+
+.basmalah{
+
+text-align:center;
+font-size:20px;
+
+}
+
+
+.ar{
+text-align:center;
+
+font-size:35px;
+
+}
+
+
+p.barebones-ltr {
+text-align:center;
+font-size:26px;
+
+
+}
+
+b{
+
+display:none;
+
+}
+
+
+
+
+</style>
+</head>
+
+<body>
+
+
+
+
+
+
+
+<div id="contentp" class="none">
+<div id="content-container">
+<div class="c-header">
+<div class="lead">
+<p></p>
+</div>
+</div>
+<section class="basmalah">
+<p class="ar">بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ</p>
+<p class="barebones-ltr"><b>MUHAMMAD HAMIDULLAH</b> Au nom d'Allah, le Tout Mis&eacute;ricordieux, le Tr&egrave;s Mis&eacute;ricordieux.</p>
+</section>
+<article>
+<section>
+<div class="verse-wrapper" id="a1" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">1</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options">
+<div>
+<p><a title="Generate link" onclick="ayaclick(this.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode,0);"><i class="fa fa-link fa-flip-horizontal fa-2x"></i></a></p>
+<p><a title="Select" onclick="ayaclick(this.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode,1)"><i class="fa fa-hand-o-up fa-2x"></i></a></p>
+</div>
+</div>
+<div class="quran-content">وَالتّينِ وَالزَّيتونِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Par le figuier et l'olivier!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a2" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">2</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَطورِ سينينَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et par le Mont S&icirc;n&icirc;n!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a3" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">3</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَهٰذَا البَلَدِ الأَمينِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et par cette Cit&eacute; s&ucirc;re!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a4" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">4</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لَقَد خَلَقنَا الإِنسٰنَ فى أَحسَنِ تَقويمٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous avons certes cr&eacute;&eacute; l'homme dans la forme la plus parfaite.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a5" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">5</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">ثُمَّ رَدَدنٰهُ أَسفَلَ سٰفِلينَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ensuite, Nous l'avons ramen&eacute; au niveau le plus bas,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a6" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">6</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِلَّا الَّذينَ ءامَنوا وَعَمِلُوا الصّٰلِحٰتِ فَلَهُم أَجرٌ غَيرُ مَمنونٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>sauf ceux qui croient et accomplissent les bonnes &oelig;uvres: ceux-l&agrave; auront une r&eacute;compense jamais interrompue.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a7" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">7</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَما يُكَذِّبُكَ بَعدُ بِالدّينِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Apr&egrave;s cela, qu'est-ce qui te fait traiter la r&eacute;tribution de mensonge?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a8" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">8</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَلَيسَ اللَّهُ بِأَحكَمِ الحٰكِمينَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allah n'est-Il pas le plus sage des Juges?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</article>
+</div>
+</div>
+<footer id="footer" class="none">
+<div class="footer-wrap">
+<div class="footer-meta">
+<div class="footer-meta-content">
+<div class="footer-sec"></div>
+</div>
+</div>
+</div>
+</footer>
+
+
+</body>
+
+
+</html>

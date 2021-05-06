@@ -1,0 +1,267 @@
+<html>
+
+
+
+
+<head>
+
+<style>
+section{
+    
+   
+    border-bottom:solid;
+    
+
+    
+}
+
+h2{
+
+  font-size:10px;
+  display:none;
+  
+}
+
+.verse-number{
+text-align:left;
+font-size:35px;
+margin:10px;
+
+  
+
+
+}
+
+
+.quran-content{
+
+ font-family:Courier New;
+font-size:35px;
+margin:10px;
+text-align:right;
+
+
+}
+
+
+p{
+
+text-align:left;
+margin:10px;
+font-size:20px;
+
+}
+ section:nth-child(even){
+        
+    }
+
+
+.basmalah{
+
+text-align:center;
+font-size:20px;
+
+}
+
+
+.ar{
+text-align:center;
+
+font-size:35px;
+
+}
+
+
+p.barebones-ltr {
+text-align:center;
+font-size:26px;
+
+
+}
+
+b{
+
+display:none;
+
+}
+
+
+
+
+</style>
+</head>
+
+<body>
+
+
+
+
+
+<div id="contentp" class="none">
+<div id="content-container">
+<section class="basmalah">
+<p class="ar">بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ</p>
+<p class="barebones-ltr"><b>MUHAMMAD HAMIDULLAH</b> Au nom d'Allah, le Tout Mis&eacute;ricordieux, le Tr&egrave;s Mis&eacute;ricordieux.</p>
+</section>
+<article>
+<section>
+<div class="verse-wrapper" id="a1" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">1</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَلَم نَشرَح لَكَ صَدرَكَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>N'avons-Nous pas ouvert pour toi ta poitrine?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a2" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">2</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَوَضَعنا عَنكَ وِزرَكَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et ne t'avons-Nous pas d&eacute;charg&eacute; du fardeau</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a3" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">3</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">الَّذى أَنقَضَ ظَهرَكَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>qui accablait ton dos?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a4" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">4</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَرَفَعنا لَكَ ذِكرَكَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et exalt&eacute; pour toi ta renomm&eacute;e?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a5" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">5</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَإِنَّ مَعَ العُسرِ يُسرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>A c&ocirc;t&eacute; de la difficult&eacute; est, certes, une facilit&eacute;!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a6" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">6</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّ مَعَ العُسرِ يُسرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>A c&ocirc;t&eacute; de la difficult&eacute; est, certes, une facilit&eacute;!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a7" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">7</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَإِذا فَرَغتَ فَانصَب</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Quand tu te lib&egrave;res, donc, l&egrave;ve-toi,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a8" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">8</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options">
+<div>
+<p><a title="Generate link" onclick="ayaclick(this.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode,0);"><i class="fa fa-link fa-flip-horizontal fa-2x"></i></a></p>
+<p><a title="Select" onclick="ayaclick(this.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode,1)"><i class="fa fa-hand-o-up fa-2x"></i></a></p>
+</div>
+</div>
+<div class="quran-content">وَإِلىٰ رَبِّكَ فَارغَب</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et &agrave; ton Seigneur aspire.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</article>
+</div>
+</div>
+<footer id="footer" class="none">
+<div class="footer-wrap">
+<div class="footer-meta">
+<div class="footer-meta-content">
+<div class="footer-sec"></div>
+</div>
+</div>
+</div>
+</footer>
+
+
+
+
+</body>
+
+
+</html>

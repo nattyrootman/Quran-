@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+
+
+
+
+        <item android:title="@string/derni_re_lecture"
+
+            android:id="@+id/find"/>
+
+        <item android:title="@string/couleur">
+        <menu>
+      <item
+        android:id="@+id/noir"
+        android:title="@string/gris"/>
+
+    <item
+        android:id="@+id/orange"
+        android:title="Orange"/>
+    <item
+        android:id="@+id/blanc"
+        android:title="@string/blanc"/>
+
+    <item
+        android:id="@+id/chocola"
+        android:title="@string/marron"/>
+
+            <item
+                android:id="@+id/vert"
+                android:title="Vert"/>
+
+
+
+            <item
+                android:id="@+id/blue"
+                android:title="Bleu"/>
+
+
+
+        </menu>
+
+
+    </item>
+
+
+</menu>

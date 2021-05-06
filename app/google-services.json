@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031918466446",
+    "project_id": "quranmp3-2269d",
+    "storage_bucket": "quranmp3-2269d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031918466446:android:3833f9bf4fb0a35e36a0df",
+        "android_client_info": {
+          "package_name": "com.example.quranmp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031918466446-eembqf78s1mveegahu73ugacju2416hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdWD9km6p-p07cY8l1v1qiaMpkpr-3jKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031918466446-eembqf78s1mveegahu73ugacju2416hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

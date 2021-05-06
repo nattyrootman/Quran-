@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/email"
+        android:title="FeedBack"/>
+
+    <item
+        android:id="@+id/twitter"
+        android:title="Twitter"/>
+
+    <item
+        android:id="@+id/insta"
+        android:title="@string/instagram"/>
+
+
+</group>
+
+
+    <item android:title="Section 1">
+
+        <menu>
+
+
+            <item
+                android:id="@+id/About"
+                android:title="@string/partager"/>
+
+            <item
+                android:id="@+id/props"
+                android:title="@string/propos"/>
+
+
+        </menu>
+
+    </item>
+
+
+
+</menu>

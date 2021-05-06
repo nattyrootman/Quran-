@@ -1,0 +1,2425 @@
+<html>
+
+
+
+<head>
+
+<style>
+section{
+    
+   
+    border-bottom:solid;
+    
+
+    
+}
+
+h2{
+
+  font-size:10px;
+  display:none;
+  
+}
+
+.verse-number{
+text-align:left;
+font-size:35px;
+margin:10px;
+
+  
+
+
+}
+
+
+.quran-content{
+
+ font-family:Courier New;
+font-size:35px;
+margin:10px;
+text-align:right;
+
+
+}
+
+
+p{
+
+text-align:left;
+margin:10px;
+font-size:20px;
+
+}
+ section:nth-child(even){
+        
+    }
+
+
+.basmalah{
+
+text-align:center;
+font-size:20px;
+
+}
+
+
+.ar{
+text-align:center;
+
+font-size:35px;
+
+}
+
+
+p.barebones-ltr {
+text-align:center;
+font-size:26px;
+
+
+}
+
+b{
+
+display:none;
+
+}
+
+
+
+
+</style>
+</head>
+
+
+<body>
+
+
+
+
+<div id="contentp" class="none">
+<div id="content-container">
+<section class="basmalah">
+<p class="ar">بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ</p>
+<p class="barebones-ltr"><b>MUHAMMAD HAMIDULLAH</b>: Au nom d'Allah, le Tout Mis&eacute;ricordieux, le Tr&egrave;s Mis&eacute;ricordieux.</p>
+</section>
+<article>
+<section>
+<div class="verse-wrapper" id="a1" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">1</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">طه</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>T&acirc;-H&acirc;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a2" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">2</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">ما أَنزَلنا عَلَيكَ القُرءانَ لِتَشقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous n'avons point fait descendre sur toi le Coran pour que tu sois malheureux,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a3" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">3</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِلّا تَذكِرَةً لِمَن يَخشىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>si ce n'est qu'un Rappel pour celui qui redoute (Allah),</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a4" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">4</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">تَنزيلًا مِمَّن خَلَقَ الأَرضَ وَالسَّمٰوٰتِ العُلَى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>(et comme) une r&eacute;v&eacute;lation &eacute;manant de Celui qui a cr&eacute;&eacute; la terre et les cieux sublimes.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a5" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">5</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">الرَّحمٰنُ عَلَى العَرشِ استَوىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Le Tout Mis&eacute;ricordieux S'est &eacute;tabli &laquo;Istaw&acirc;&raquo; sur le Tr&ocirc;ne.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a6" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">6</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لَهُ ما فِى السَّمٰوٰتِ وَما فِى الأَرضِ وَما بَينَهُما وَما تَحتَ الثَّرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>A Lui appartient ce qui est dans les cieux, sur la terre, ce qui est entre eux et ce qui est sous le sol humide.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a7" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">7</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَإِن تَجهَر بِالقَولِ فَإِنَّهُ يَعلَمُ السِّرَّ وَأَخفَى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et si tu &eacute;l&egrave;ves la voix, Il conna&icirc;t certes les secrets, m&ecirc;me les plus cach&eacute;s.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a8" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">8</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اللَّهُ لا إِلٰهَ إِلّا هُوَ ۖ لَهُ الأَسماءُ الحُسنىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allah! Point de divinit&eacute; que Lui! Il poss&egrave;de les noms les plus beaux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a9" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">9</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَهَل أَتىٰكَ حَديثُ موسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Le r&eacute;cit de Mo&iuml;se t'est-il parvenu?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a10" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">10</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِذ رَءا نارًا فَقالَ لِأَهلِهِ امكُثوا إِنّى ءانَستُ نارًا لَعَلّى ءاتيكُم مِنها بِقَبَسٍ أَو أَجِدُ عَلَى النّارِ هُدًى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Lorsqu'il vit du feu, il dit &agrave; sa famille: &laquo;Restez ici! Je vois du feu de loin; peut-&ecirc;tre vous en apporterai-je un tison, ou trouverai-je aupr&egrave;s du feu de quoi me guider&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a11" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">11</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَلَمّا أَتىٰها نودِىَ يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Puis, lorsqu'il y arriva, il fut interpell&eacute;: &laquo;Mo&iuml;se!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a12" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">12</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنّى أَنا۠ رَبُّكَ فَاخلَع نَعلَيكَ ۖ إِنَّكَ بِالوادِ المُقَدَّسِ طُوًى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Je suis ton Seigneur. Enl&egrave;ve tes sandales: car tu es dans la vall&eacute;e sacr&eacute;e, Tuw&acirc;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a13" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">13</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَأَنَا اختَرتُكَ فَاستَمِع لِما يوحىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Moi, Je t'ai choisi. Ecoute donc ce qui va &ecirc;tre r&eacute;v&eacute;l&eacute;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a14" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">14</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّنى أَنَا اللَّهُ لا إِلٰهَ إِلّا أَنا۠ فَاعبُدنى وَأَقِمِ الصَّلوٰةَ لِذِكرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Certes, c'est Moi Allah: point de divinit&eacute; que Moi. Adore-Moi donc et accomplis la Sal&acirc;t pour te souvenir de Moi.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a15" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">15</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّ السّاعَةَ ءاتِيَةٌ أَكادُ أُخفيها لِتُجزىٰ كُلُّ نَفسٍ بِما تَسعىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>L'Heure va certes arriver. Je la cache &agrave; peine, pour que chaque &acirc;me soit r&eacute;tribu&eacute;e selon ses efforts.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a16" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">16</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَلا يَصُدَّنَّكَ عَنها مَن لا يُؤمِنُ بِها وَاتَّبَعَ هَوىٰهُ فَتَردىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Que celui qui n'y croit pas et qui suit sa propre passion ne t'en d&eacute;tourne pas. Sinon tu p&eacute;riras.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a17" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">17</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَما تِلكَ بِيَمينِكَ يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et qu'est-ce qu'il y a dans ta main droite, &ocirc; Mo&iuml;se?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a18" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">18</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ هِىَ عَصاىَ أَتَوَكَّؤُا۟ عَلَيها وَأَهُشُّ بِها عَلىٰ غَنَمى وَلِىَ فيها مَـٔارِبُ أُخرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dit: &laquo;C'est mon b&acirc;ton sur lequel je m'appuie, qui me sert &agrave; effeuiller (les arbres) pour mes moutons et j'en fais d'autres usages&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a19" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">19</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ أَلقِها يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>[Allah lui] dit: &laquo;Jette-le, O Mo&iuml;se&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a20" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">20</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأَلقىٰها فَإِذا هِىَ حَيَّةٌ تَسعىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il le jeta: et le voici un serpent qui rampait.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a21" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">21</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ خُذها وَلا تَخَف ۖ سَنُعيدُها سيرَتَهَا الأولىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>[Allah] dit: &laquo;Saisis-le et ne crains rien: Nous le ram&egrave;nerons &agrave; son premier &eacute;tat.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a22" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">22</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَاضمُم يَدَكَ إِلىٰ جَناحِكَ تَخرُج بَيضاءَ مِن غَيرِ سوءٍ ءايَةً أُخرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et serre ta main sous ton aisselle: elle en sortira blanche sans aucun mal, et ce sera l&agrave; un autre prodige,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a23" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">23</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لِنُرِيَكَ مِن ءايٰتِنَا الكُبرَى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>afin que Nous te fassions voir de Nos prodiges les plus importants.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a24" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">24</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اذهَب إِلىٰ فِرعَونَ إِنَّهُ طَغىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Rends-toi aupr&egrave;s de Pharaon car il a outrepass&eacute; toute limite.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a25" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">25</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ رَبِّ اشرَح لى صَدرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>[Mo&iuml;se] dit: &laquo;Seigneur, ouvre-moi ma poitrine,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a26" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">26</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَيَسِّر لى أَمرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et facilite ma mission,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a27" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">27</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَاحلُل عُقدَةً مِن لِسانى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et d&eacute;noue un n&oelig;ud en ma langue,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a28" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">28</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَفقَهوا قَولى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>afin qu'ils comprennent mes paroles,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a29" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">29</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَاجعَل لى وَزيرًا مِن أَهلى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et assigne-moi un assistant de ma famille:</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a30" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">30</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">هٰرونَ أَخِى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Aaron, mon fr&egrave;re,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a31" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">31</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اشدُد بِهِ أَزرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>accrois par lui ma force!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a32" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">32</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَأَشرِكهُ فى أَمرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et associe-le &agrave; ma mission,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a33" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">33</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">كَى نُسَبِّحَكَ كَثيرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>afin que nous Te glorifions beaucoup,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a34" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">34</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَنَذكُرَكَ كَثيرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et que nous T'invoquions beaucoup.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a35" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">35</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّكَ كُنتَ بِنا بَصيرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et Toi, certes, Tu es Tr&egrave;s Clairvoyant sur nous&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a36" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">36</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ قَد أوتيتَ سُؤلَكَ يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>[Allah] dit: &laquo;Ta demande est exauc&eacute;e, &ocirc; Mo&iuml;se.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a37" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">37</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَقَد مَنَنّا عَلَيكَ مَرَّةً أُخرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et Nous t'avons d&eacute;j&agrave; favoris&eacute; une premi&egrave;re fois</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a38" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">38</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِذ أَوحَينا إِلىٰ أُمِّكَ ما يوحىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>lorsque Nous r&eacute;v&eacute;l&acirc;mes &agrave; ta m&egrave;re ce qui fut r&eacute;v&eacute;l&eacute;:</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a39" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">39</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَنِ اقذِفيهِ فِى التّابوتِ فَاقذِفيهِ فِى اليَمِّ فَليُلقِهِ اليَمُّ بِالسّاحِلِ يَأخُذهُ عَدُوٌّ لى وَعَدُوٌّ لَهُ ۚ وَأَلقَيتُ عَلَيكَ مَحَبَّةً مِنّى وَلِتُصنَعَ عَلىٰ عَينى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Mets-le dans le coffret, puis jette celui-ci dans les flots pour qu'ensuite le fleuve le lance sur la rive; un ennemi &agrave; Moi et &agrave; lui le prendra&raquo;. Et J'ai r&eacute;pandu sur toi une affection de Ma part, afin que tu sois &eacute;lev&eacute; sous Mon &oelig;il.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a40" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">40</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِذ تَمشى أُختُكَ فَتَقولُ هَل أَدُلُّكُم عَلىٰ مَن يَكفُلُهُ ۖ فَرَجَعنٰكَ إِلىٰ أُمِّكَ كَى تَقَرَّ عَينُها وَلا تَحزَنَ ۚ وَقَتَلتَ نَفسًا فَنَجَّينٰكَ مِنَ الغَمِّ وَفَتَنّٰكَ فُتونًا ۚ فَلَبِثتَ سِنينَ فى أَهلِ مَديَنَ ثُمَّ جِئتَ عَلىٰ قَدَرٍ يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et v&oelig;il&agrave; que ta s&oelig;ur (te suivait en) marchant et disait: &laquo;Puis-je vous indiquer quelqu'un qui se chargera de lui?&raquo; Ainsi, Nous te rapport&acirc;mes &agrave; ta m&egrave;re afin que son oil se r&eacute;jouisse et qu'elle ne s'afflige plus. Tu tuas ensuite un individu; Nous te sauv&acirc;mes des craintes qui t'oppressaient; et Nous t'impos&acirc;mes plusieurs &eacute;preuves. Puis tu demeuras des ann&eacute;es durant chez les habitants de Madyan. Ensuite tu es venu, &ocirc; Mo&iuml;se, conform&eacute;ment &agrave; un d&eacute;cret.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a41" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">41</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَاصطَنَعتُكَ لِنَفسِى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et je t'ai assign&eacute; &agrave; Moi-M&ecirc;me.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a42" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">42</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اذهَب أَنتَ وَأَخوكَ بِـٔايٰتى وَلا تَنِيا فى ذِكرِى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Pars, toi et ton fr&egrave;re, avec Mes prodiges; et ne n&eacute;gligez pas de M'invoquer.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a43" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">43</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اذهَبا إِلىٰ فِرعَونَ إِنَّهُ طَغىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allez vers Pharaon: il s'est vraiment rebell&eacute;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a44" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">44</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَقولا لَهُ قَولًا لَيِّنًا لَعَلَّهُ يَتَذَكَّرُ أَو يَخشىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Puis, parlez-lui gentiment. Peut-&ecirc;tre se rappellera-t-il ou [Me] craindra-t-il?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a45" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">45</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالا رَبَّنا إِنَّنا نَخافُ أَن يَفرُطَ عَلَينا أَو أَن يَطغىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils dirent: &laquo;O notre Seigneur, nous craignons qu'il ne nous maltraite ind&ucirc;ment, ou qu'il d&eacute;passe les limites&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a46" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">46</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ لا تَخافا ۖ إِنَّنى مَعَكُما أَسمَعُ وَأَرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dit: &laquo;Ne craignez rien. Je suis avec vous: J'entends et Je vois.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a47" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">47</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأتِياهُ فَقولا إِنّا رَسولا رَبِّكَ فَأَرسِل مَعَنا بَنى إِسرٰءيلَ وَلا تُعَذِّبهُم ۖ قَد جِئنٰكَ بِـٔايَةٍ مِن رَبِّكَ ۖ وَالسَّلٰمُ عَلىٰ مَنِ اتَّبَعَ الهُدىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allez donc chez lui; puis, dites-lui: &laquo;Nous sommes tous deux, les messagers de ton Seigneur. Envoie donc les Enfants d'Isra&euml;l en notre compagnie et ne les ch&acirc;tie plus. Nous sommes venus &agrave; toi avec une preuve de la part de ton Seigneur. Et que la paix soit sur quiconque suit le droit chemin!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a48" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">48</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنّا قَد أوحِىَ إِلَينا أَنَّ العَذابَ عَلىٰ مَن كَذَّبَ وَتَوَلّىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il nous a &eacute;t&eacute; r&eacute;v&eacute;l&eacute; que le ch&acirc;timent est pour celui qui refuse d'avoir foi et qui tourne le dos&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a49" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">49</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ فَمَن رَبُّكُما يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Alors [Pharaon] dit: &laquo;Qui donc est votre Seigneur, &ocirc; Mo&iuml;se?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a50" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">50</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ رَبُّنَا الَّذى أَعطىٰ كُلَّ شَيءٍ خَلقَهُ ثُمَّ هَدىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Notre Seigneur, dit Mo&iuml;se, est Celui qui a donn&eacute; &agrave; chaque chose sa propre nature puis l'a dirig&eacute;e&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a51" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">51</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ فَما بالُ القُرونِ الأولىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Qu'en est-il donc des g&eacute;n&eacute;rations anciennes?&raquo; dit Pharaon.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a52" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">52</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ عِلمُها عِندَ رَبّى فى كِتٰبٍ ۖ لا يَضِلُّ رَبّى وَلا يَنسَى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Mo&iuml;se dit: &laquo;La connaissance de leur sort est aupr&egrave;s de mon Seigneur, dans un livre. Mon Seigneur [ne commet] ni erreur ni oubli.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a53" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">53</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">الَّذى جَعَلَ لَكُمُ الأَرضَ مَهدًا وَسَلَكَ لَكُم فيها سُبُلًا وَأَنزَلَ مِنَ السَّماءِ ماءً فَأَخرَجنا بِهِ أَزوٰجًا مِن نَباتٍ شَتّىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>C'est Lui qui vous a assign&eacute; la terre comme berceau et vous y a trac&eacute; des chemins; et qui du ciel a fait descendre de l'eau avec laquelle Nous faisons germer des couples de plantes de toutes sortes.&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a54" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">54</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">كُلوا وَارعَوا أَنعٰمَكُم ۗ إِنَّ فى ذٰلِكَ لَءايٰتٍ لِأُولِى النُّهىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Mangez et faites pa&icirc;tre votre b&eacute;tail&raquo;. Voil&agrave; bien l&agrave; des signes pour les dou&eacute;s d'intelligence.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a55" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">55</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ مِنها خَلَقنٰكُم وَفيها نُعيدُكُم وَمِنها نُخرِجُكُم تارَةً أُخرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>C'est d'elle (la terre) que Nous vous avons cr&eacute;&eacute;s, et en elle Nous vous retournerons, et d'elle Nous vous ferons sortir une fois encore.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a56" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">56</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَقَد أَرَينٰهُ ءايٰتِنا كُلَّها فَكَذَّبَ وَأَبىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Certes Nous lui avons montr&eacute; tous Nos prodiges; mais il les a d&eacute;mentis et a refus&eacute; (de croire).</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a57" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">57</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ أَجِئتَنا لِتُخرِجَنا مِن أَرضِنا بِسِحرِكَ يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dit: &laquo;Es-tu venu &agrave; nous, &ocirc; Mo&iuml;se, pour nous faire sortir de notre terre par ta magie?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a58" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">58</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَلَنَأتِيَنَّكَ بِسِحرٍ مِثلِهِ فَاجعَل بَينَنا وَبَينَكَ مَوعِدًا لا نُخلِفُهُ نَحنُ وَلا أَنتَ مَكانًا سُوًى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous t'apporterons assur&eacute;ment une magie semblable. Fixe entre nous et toi un rendez-vous auquel ni nous ni toi ne manquerons, dans un lieu convenable&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a59" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">59</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ مَوعِدُكُم يَومُ الزّينَةِ وَأَن يُحشَرَ النّاسُ ضُحًى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Alors Mo&iuml;se dit: &laquo;Votre rendez-vous, c'est le jour de la f&ecirc;te. Et que les gens se rassemblent dans la matin&eacute;e&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a60" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">60</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَتَوَلّىٰ فِرعَونُ فَجَمَعَ كَيدَهُ ثُمَّ أَتىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Pharaon, donc, se retira. Ensuite il rassembla sa ruse puis vint (au rendez-vous).</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a61" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">61</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ لَهُم موسىٰ وَيلَكُم لا تَفتَروا عَلَى اللَّهِ كَذِبًا فَيُسحِتَكُم بِعَذابٍ ۖ وَقَد خابَ مَنِ افتَرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Mo&iuml;se leur dit: &laquo;Malheur &agrave; vous! Ne forgez pas de mensonge contre Allah: sinon par un ch&acirc;timent Il vous an&eacute;antira. Celui qui forge (un mensonge) est perdu&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a62" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">62</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَتَنٰزَعوا أَمرَهُم بَينَهُم وَأَسَرُّوا النَّجوىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>L&agrave;-dessus, ils se mirent &agrave; disputer entre eux de leur affaire et tinrent secr&egrave;tes leurs discussions.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a63" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">63</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالوا إِن هٰذٰنِ لَسٰحِرٰنِ يُريدانِ أَن يُخرِجاكُم مِن أَرضِكُم بِسِحرِهِما وَيَذهَبا بِطَريقَتِكُمُ المُثلىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils dirent: &laquo;Voici deux magiciens qui, par leur magie, veulent vous faire abandonner votre terre et emporter votre doctrine id&eacute;ale.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a64" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">64</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأَجمِعوا كَيدَكُم ثُمَّ ائتوا صَفًّا ۚ وَقَد أَفلَحَ اليَومَ مَنِ استَعلىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Rassemblez donc votre ruse puis venez en rangs serr&eacute;s. Et celui qui aura le dessus aujourd'hui aura r&eacute;ussi&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a65" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">65</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالوا يٰموسىٰ إِمّا أَن تُلقِىَ وَإِمّا أَن نَكونَ أَوَّلَ مَن أَلقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils dirent: &laquo;O Mo&iuml;se, ou tu jettes, [le premier ton b&acirc;ton] ou que nous soyons les premiers &agrave; jeter?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a66" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">66</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ بَل أَلقوا ۖ فَإِذا حِبالُهُم وَعِصِيُّهُم يُخَيَّلُ إِلَيهِ مِن سِحرِهِم أَنَّها تَسعىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dit: &laquo;Jetez plut&ocirc;t&raquo;. Et voil&agrave; que leurs cordes et leurs b&acirc;tons lui parurent ramper par l'effet de leur magie.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a67" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">67</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأَوجَسَ فى نَفسِهِ خيفَةً موسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Mo&iuml;se ressentit quelque peur en lui-m&ecirc;me.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a68" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">68</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قُلنا لا تَخَف إِنَّكَ أَنتَ الأَعلىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous lui d&icirc;mes: &laquo;N'aie pas peur, c'est toi qui auras le dessus.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a69" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">69</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَأَلقِ ما فى يَمينِكَ تَلقَف ما صَنَعوا ۖ إِنَّما صَنَعوا كَيدُ سٰحِرٍ ۖ وَلا يُفلِحُ السّاحِرُ حَيثُ أَتىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Jette ce qu'il y a dans ta main droite; cela d&eacute;vorera ce qu'ils ont fabriqu&eacute;. Ce qu'ils ont fabriqu&eacute; n'est qu'une ruse de magicien; et le magicien ne r&eacute;ussit pas, o&ugrave; qu'il soit&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a70" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">70</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأُلقِىَ السَّحَرَةُ سُجَّدًا قالوا ءامَنّا بِرَبِّ هٰرونَ وَموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Les magiciens se jet&egrave;rent prostern&eacute;s, disant: &laquo;Nous avons foi en le Seigneur d'Aaron et de Mo&iuml;se&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a71" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">71</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ ءامَنتُم لَهُ قَبلَ أَن ءاذَنَ لَكُم ۖ إِنَّهُ لَكَبيرُكُمُ الَّذى عَلَّمَكُمُ السِّحرَ ۖ فَلَأُقَطِّعَنَّ أَيدِيَكُم وَأَرجُلَكُم مِن خِلٰفٍ وَلَأُصَلِّبَنَّكُم فى جُذوعِ النَّخلِ وَلَتَعلَمُنَّ أَيُّنا أَشَدُّ عَذابًا وَأَبقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Alors Pharaon dit: &laquo;Avez-vous cru en lui avant que je ne vous y autorise? C'est lui votre chef qui vous a enseign&eacute; la magie. Je vous ferai s&ucirc;rement, couper mains et jambes oppos&eacute;es, et vous ferai crucifier aux troncs des palmiers, et vous saurez, avec certitude, qui de nous est plus fort en ch&acirc;timent et qui est le plus durable&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a72" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">72</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالوا لَن نُؤثِرَكَ عَلىٰ ما جاءَنا مِنَ البَيِّنٰتِ وَالَّذى فَطَرَنا ۖ فَاقضِ ما أَنتَ قاضٍ ۖ إِنَّما تَقضى هٰذِهِ الحَيوٰةَ الدُّنيا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Par celui qui nous a cr&eacute;&eacute;s, dirent-ils, nous ne te pr&eacute;f&eacute;rerons jamais &agrave; ce qui nous est parvenu comme preuves &eacute;videntes. D&eacute;cr&egrave;te donc ce que tu as &agrave; d&eacute;cr&eacute;ter. Tes d&eacute;crets ne touchent que cette pr&eacute;sente vie.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a73" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">73</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنّا ءامَنّا بِرَبِّنا لِيَغفِرَ لَنا خَطٰيٰنا وَما أَكرَهتَنا عَلَيهِ مِنَ السِّحرِ ۗ وَاللَّهُ خَيرٌ وَأَبقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous croyons en notre Seigneur, afin qu'Il nous pardonne nos fautes ainsi que la magie &agrave; laquelle tu nous as contraints&raquo;. Et Allah est meilleur et &eacute;ternel.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a74" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">74</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّهُ مَن يَأتِ رَبَّهُ مُجرِمًا فَإِنَّ لَهُ جَهَنَّمَ لا يَموتُ فيها وَلا يَحيىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Quiconque vient en criminel &agrave; son Seigneur, aura certes l'Enfer o&ugrave; il ne meurt ni ne vit.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a75" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">75</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمَن يَأتِهِ مُؤمِنًا قَد عَمِلَ الصّٰلِحٰتِ فَأُولٰئِكَ لَهُمُ الدَّرَجٰتُ العُلىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et quiconque vient aupr&egrave;s de Lui en croyant, apr&egrave;s avoir fait de bonnes &oelig;uvres, voil&agrave; donc ceux qui auront les plus hauts rangs,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a76" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">76</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">جَنّٰتُ عَدنٍ تَجرى مِن تَحتِهَا الأَنهٰرُ خٰلِدينَ فيها ۚ وَذٰلِكَ جَزاءُ مَن تَزَكّىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>les jardins du s&eacute;jour (&eacute;ternel), sous lesquels coulent les ruisseaux, o&ugrave; ils demeureront &eacute;ternellement. Et voil&agrave; la r&eacute;compense de ceux qui se purifient [de la m&eacute;cr&eacute;ance et des p&eacute;ch&eacute;s].</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a77" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">77</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَقَد أَوحَينا إِلىٰ موسىٰ أَن أَسرِ بِعِبادى فَاضرِب لَهُم طَريقًا فِى البَحرِ يَبَسًا لا تَخٰفُ دَرَكًا وَلا تَخشىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous r&eacute;v&eacute;l&acirc;mes &agrave; Mo&iuml;se: &laquo;Pars la nuit, &agrave; la t&ecirc;te de Mes serviteurs, puis, trace-leur un passage &agrave; sec dans la mer: sans craindre une poursuite et sans &eacute;prouver aucune peur&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a78" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">78</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأَتبَعَهُم فِرعَونُ بِجُنودِهِ فَغَشِيَهُم مِنَ اليَمِّ ما غَشِيَهُم</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Pharaon les poursuivit avec ses arm&eacute;es. La mer les submergea bel et bien.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a79" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">79</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَأَضَلَّ فِرعَونُ قَومَهُ وَما هَدىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Pharaon &eacute;gara ainsi son peuple et ne le m&icirc;t pas sur le droit chemin.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a80" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">80</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يٰبَنى إِسرٰءيلَ قَد أَنجَينٰكُم مِن عَدُوِّكُم وَوٰعَدنٰكُم جانِبَ الطّورِ الأَيمَنَ وَنَزَّلنا عَلَيكُمُ المَنَّ وَالسَّلوىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>O Enfants d'Isra&euml;l, Nous vous avons d&eacute;j&agrave; d&eacute;livr&eacute;s de votre ennemi, et Nous vous avons donn&eacute; rendez-vous sur le flanc droit du Mont. Et Nous avons fait descendre sur vous la manne et les cailles.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a81" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">81</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">كُلوا مِن طَيِّبٰتِ ما رَزَقنٰكُم وَلا تَطغَوا فيهِ فَيَحِلَّ عَلَيكُم غَضَبى ۖ وَمَن يَحلِل عَلَيهِ غَضَبى فَقَد هَوىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Mangez des bonnes choses que Nous vous avons attribu&eacute;es et ne vous montrez pas ingrats, sinon Ma col&egrave;re s'abattra sur vous: et celui sur qui Ma col&egrave;re s'abat, va s&ucirc;rement vers l'ab&icirc;me.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a82" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">82</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَإِنّى لَغَفّارٌ لِمَن تابَ وَءامَنَ وَعَمِلَ صٰلِحًا ثُمَّ اهتَدىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et je suis Grand Pardonneur &agrave; celui qui se repent, croit, fait bonne &oelig;uvre, puis se met sur le bon chemin&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a83" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">83</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ وَما أَعجَلَكَ عَن قَومِكَ يٰموسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Pourquoi Mo&iuml;se t'es-tu h&acirc;t&eacute; de quitter ton peuple?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a84" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">84</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ هُم أُولاءِ عَلىٰ أَثَرى وَعَجِلتُ إِلَيكَ رَبِّ لِتَرضىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils sont l&agrave; sur mes traces, dit Mo&iuml;se. Et je me suis h&acirc;t&eacute; vers Toi, Seigneur, afin que Tu sois satisfait.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a85" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">85</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ فَإِنّا قَد فَتَنّا قَومَكَ مِن بَعدِكَ وَأَضَلَّهُمُ السّامِرِىُّ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allah dit: &laquo;Nous avons mis ton peuple &agrave; l'&eacute;preuve apr&egrave;s ton d&eacute;part. Et le S&acirc;mir&icirc; les a &eacute;gar&eacute;s&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a86" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">86</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَرَجَعَ موسىٰ إِلىٰ قَومِهِ غَضبٰنَ أَسِفًا ۚ قالَ يٰقَومِ أَلَم يَعِدكُم رَبُّكُم وَعدًا حَسَنًا ۚ أَفَطالَ عَلَيكُمُ العَهدُ أَم أَرَدتُم أَن يَحِلَّ عَلَيكُم غَضَبٌ مِن رَبِّكُم فَأَخلَفتُم مَوعِدى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Mo&iuml;se retourna donc vers son peuple, courrouc&eacute; et chagrin&eacute;; il dit: &laquo;O mon peuple, votre Seigneur ne vous a-t-Il pas d&eacute;j&agrave; fait une belle promesse? L'alliance a-t-elle donc &eacute;t&eacute; trop longue pour vous? ou avez-vous d&eacute;sir&eacute; que la col&egrave;re de votre Seigneur s'abatte sur vous, pour avoir trahi votre engagement envers moi?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a87" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">87</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالوا ما أَخلَفنا مَوعِدَكَ بِمَلكِنا وَلٰكِنّا حُمِّلنا أَوزارًا مِن زينَةِ القَومِ فَقَذَفنٰها فَكَذٰلِكَ أَلقَى السّامِرِىُّ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils dirent: &laquo;Ce n'est pas de notre propre gr&eacute; que nous avons manqu&eacute; &agrave; notre engagement envers toi. Mais nous f&ucirc;mes charg&eacute;s de fardeaux d'ornements du peuple (de Pharaon); nous les avons donc jet&eacute;s (sur le feu) tout comme le S&acirc;mir&icirc; les a lanc&eacute;s.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a88" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">88</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأَخرَجَ لَهُم عِجلًا جَسَدًا لَهُ خُوارٌ فَقالوا هٰذا إِلٰهُكُم وَإِلٰهُ موسىٰ فَنَسِىَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Puis il en a fait sortir pour eux un veau, un corps &agrave; mugissement. Et ils ont dit: &laquo;C'est votre divinit&eacute; et la divinit&eacute; de Mo&iuml;se; il a donc oubli&eacute;&raquo;!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a89" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">89</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَفَلا يَرَونَ أَلّا يَرجِعُ إِلَيهِم قَولًا وَلا يَملِكُ لَهُم ضَرًّا وَلا نَفعًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Quoi! Ne voyaient-ils pas qu'il [le veau] ne leur rendait aucune parole et qu'il ne poss&eacute;dait aucun moyen de leur nuire ou de leur faire du bien?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a90" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">90</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَقَد قالَ لَهُم هٰرونُ مِن قَبلُ يٰقَومِ إِنَّما فُتِنتُم بِهِ ۖ وَإِنَّ رَبَّكُمُ الرَّحمٰنُ فَاتَّبِعونى وَأَطيعوا أَمرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Certes, Aaron leur avait bien dit auparavant: &laquo;O mon peuple, vous &ecirc;tes tomb&eacute;s dans la tentation (&agrave; cause du veau). Or, c'est le Tout Mis&eacute;ricordieux qui est vraiment votre Seigneur. Suivez-moi donc et ob&eacute;issez &agrave; mon commandement&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a91" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">91</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالوا لَن نَبرَحَ عَلَيهِ عٰكِفينَ حَتّىٰ يَرجِعَ إِلَينا موسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils dirent: &laquo;Nous continuerons &agrave; y &ecirc;tre attach&eacute;s, jusqu'&agrave; ce que Mo&iuml;se retourne vers nous&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a92" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">92</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ يٰهٰرونُ ما مَنَعَكَ إِذ رَأَيتَهُم ضَلّوا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Alors [Mo&iuml;se] dit: &laquo;Qu'est-ce qui t'a emp&ecirc;ch&eacute;, Aaron, quand tu les as vus s'&eacute;garer,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a93" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">93</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَلّا تَتَّبِعَنِ ۖ أَفَعَصَيتَ أَمرى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>de me suivre? As-tu donc d&eacute;sob&eacute;i &agrave; mon commandement?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a94" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">94</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ يَبنَؤُمَّ لا تَأخُذ بِلِحيَتى وَلا بِرَأسى ۖ إِنّى خَشيتُ أَن تَقولَ فَرَّقتَ بَينَ بَنى إِسرٰءيلَ وَلَم تَرقُب قَولى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>[Aaron] dit: &laquo;O fils de ma m&egrave;re, ne me prends ni par la barbe ni par la t&ecirc;te. Je craignais que tu ne dises: &laquo;Tu as divis&eacute; les enfants d'Isra&euml;l et tu n'as pas observ&eacute; mes ordres&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a95" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">95</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ فَما خَطبُكَ يٰسٰمِرِىُّ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Alors [Mo&iuml;se] dit: &laquo;Quel a &eacute;t&eacute; ton dessein? O S&acirc;mir&icirc;?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a96" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">96</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ بَصُرتُ بِما لَم يَبصُروا بِهِ فَقَبَضتُ قَبضَةً مِن أَثَرِ الرَّسولِ فَنَبَذتُها وَكَذٰلِكَ سَوَّلَت لى نَفسى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dit: &laquo;J'ai vu ce qu'ils n'ont pas vu: j'ai donc pris une poign&eacute;e de la trace de l'Envoy&eacute;; puis, je l'ai lanc&eacute;e. Voil&agrave; ce que mon &acirc;me m'a sugg&eacute;r&eacute;&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a97" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">97</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ فَاذهَب فَإِنَّ لَكَ فِى الحَيوٰةِ أَن تَقولَ لا مِساسَ ۖ وَإِنَّ لَكَ مَوعِدًا لَن تُخلَفَهُ ۖ وَانظُر إِلىٰ إِلٰهِكَ الَّذى ظَلتَ عَلَيهِ عاكِفًا ۖ لَنُحَرِّقَنَّهُ ثُمَّ لَنَنسِفَنَّهُ فِى اليَمِّ نَسفًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>&laquo;Va-t-en, dit [Mo&iuml;se]. Dans la vie, tu auras &agrave; dire (&agrave; tout le monde): &laquo;Ne me touchez pas!&raquo; Et il y aura pour toi un rendez-vous que tu ne pourras manquer. Regarde ta divinit&eacute; que tu as ador&eacute;e avec assiduit&eacute;. Nous la br&ucirc;lerons certes, et ensuite, nous disperserons [sa cendre] dans les flots.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a98" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">98</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّما إِلٰهُكُمُ اللَّهُ الَّذى لا إِلٰهَ إِلّا هُوَ ۚ وَسِعَ كُلَّ شَيءٍ عِلمًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>En v&eacute;rit&eacute;, votre seul Dieu est Allah en dehors de qui il n'y a point de divinit&eacute;. De Sa science Il embrasse tout.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a99" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">99</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">كَذٰلِكَ نَقُصُّ عَلَيكَ مِن أَنباءِ ما قَد سَبَقَ ۚ وَقَد ءاتَينٰكَ مِن لَدُنّا ذِكرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>C'est ainsi que Nous te racontons les r&eacute;cits de ce qui s'est pass&eacute;. C'est bien un rappel de Notre part que Nous t'avons apport&eacute;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a100" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">100</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">مَن أَعرَضَ عَنهُ فَإِنَّهُ يَحمِلُ يَومَ القِيٰمَةِ وِزرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Quiconque s'en d&eacute;tourne (de ce Coran), portera au jour de la r&eacute;surrection un fardeau;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a101" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">101</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">خٰلِدينَ فيهِ ۖ وَساءَ لَهُم يَومَ القِيٰمَةِ حِملًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>ils resteront &eacute;ternellement dans cet &eacute;tat, et quel mauvais fardeau pour eux au Jour de la R&eacute;surrection,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a102" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">102</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَومَ يُنفَخُ فِى الصّورِ ۚ وَنَحشُرُ المُجرِمينَ يَومَئِذٍ زُرقًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Le jour o&ugrave; l'on soufflera dans la Trompe, ce jour-l&agrave; Nous rassemblerons les criminels tout bleus (de peur)!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a103" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">103</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَتَخٰفَتونَ بَينَهُم إِن لَبِثتُم إِلّا عَشرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils chuchoteront entre eux: &laquo;Vous n'&ecirc;tes rest&eacute;s l&agrave; que dix [jours]!&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a104" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">104</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">نَحنُ أَعلَمُ بِما يَقولونَ إِذ يَقولُ أَمثَلُهُم طَريقَةً إِن لَبِثتُم إِلّا يَومًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Nous connaissons parfaitement ce qu'ils diront lorsque l'un d'entre eux dont la conduite est exemplaire dira: &laquo;Vous n'&ecirc;tes rest&eacute;s qu'un jour&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a105" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">105</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَيَسـَٔلونَكَ عَنِ الجِبالِ فَقُل يَنسِفُها رَبّى نَسفًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et ils t'interrogent au sujet des montagnes. Dis: &laquo;Mon Seigneur les dispersera comme la poussi&egrave;re,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a106" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">106</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَيَذَرُها قاعًا صَفصَفًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et les laissera comme une plaine d&eacute;nud&eacute;e</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a107" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">107</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لا تَرىٰ فيها عِوَجًا وَلا أَمتًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>dans laquelle tu ne verras ni tortuosit&eacute;, ni d&eacute;pression.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a108" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">108</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَومَئِذٍ يَتَّبِعونَ الدّاعِىَ لا عِوَجَ لَهُ ۖ وَخَشَعَتِ الأَصواتُ لِلرَّحمٰنِ فَلا تَسمَعُ إِلّا هَمسًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ce jour-l&agrave;, ils suivront le Convocateur sans tortuosit&eacute;; et les voix baisseront devant le Tout Mis&eacute;ricordieux. Tu n'entendras alors qu'un chuchotement.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a109" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">109</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَومَئِذٍ لا تَنفَعُ الشَّفٰعَةُ إِلّا مَن أَذِنَ لَهُ الرَّحمٰنُ وَرَضِىَ لَهُ قَولًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ce jour-l&agrave;, l'intercession ne profitera qu'&agrave; celui auquel le Tout Mis&eacute;ricordieux aura donn&eacute; Sa permission et dont Il agr&eacute;era la parole.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a110" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">110</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَعلَمُ ما بَينَ أَيديهِم وَما خَلفَهُم وَلا يُحيطونَ بِهِ عِلمًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il conna&icirc;t ce qui est devant eux et ce qui est derri&egrave;re eux, alors qu'eux-m&ecirc;mes ne Le cernent pas de leur science.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a111" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">111</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ وَعَنَتِ الوُجوهُ لِلحَىِّ القَيّومِ ۖ وَقَد خابَ مَن حَمَلَ ظُلمًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et les visages s'humilieront devant Le Vivant, Celui qui subsiste par Lui-m&ecirc;me &laquo;al-Qayy&ucirc;m&raquo;, et malheureux sera celui qui [se pr&eacute;sentera devant Lui] charg&eacute; d'une iniquit&eacute;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a112" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">112</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمَن يَعمَل مِنَ الصّٰلِحٰتِ وَهُوَ مُؤمِنٌ فَلا يَخافُ ظُلمًا وَلا هَضمًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et quiconque aura fait de bonnes &oelig;uvres tout en &eacute;tant croyant, ne craindra ni injustice ni oppression.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a113" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">113</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَكَذٰلِكَ أَنزَلنٰهُ قُرءانًا عَرَبِيًّا وَصَرَّفنا فيهِ مِنَ الوَعيدِ لَعَلَّهُم يَتَّقونَ أَو يُحدِثُ لَهُم ذِكرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>C'est ainsi que nous l'avons fait descendre un Coran en [langue] arabe, et Nous y avons multipli&eacute; les menaces, afin qu'ils deviennent pieux ou qu'il les incite &agrave; s'exhorter?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a114" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">114</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَتَعٰلَى اللَّهُ المَلِكُ الحَقُّ ۗ وَلا تَعجَل بِالقُرءانِ مِن قَبلِ أَن يُقضىٰ إِلَيكَ وَحيُهُ ۖ وَقُل رَبِّ زِدنى عِلمًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Que soit &eacute;xalt&eacute; Allah, le Vrai Souverain! Ne te h&acirc;te pas [de r&eacute;citer] le Coran avant que ne te soit achev&eacute;e sa r&eacute;v&eacute;lation. Et dis: &laquo;O mon Seigneur, accro&icirc;t mes connaissances!&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a115" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">115</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَقَد عَهِدنا إِلىٰ ءادَمَ مِن قَبلُ فَنَسِىَ وَلَم نَجِد لَهُ عَزمًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>En effet, Nous avons auparavant fait une recommandation &agrave; Adam; mais il oublia; et Nous n'avons pas trouv&eacute; chez lui de r&eacute;solution ferme.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a116" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">116</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَإِذ قُلنا لِلمَلٰئِكَةِ اسجُدوا لِءادَمَ فَسَجَدوا إِلّا إِبليسَ أَبىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et quand Nous d&icirc;mes aux Anges: &laquo;Prosternez-vous devant Adam&raquo;, ils se prostern&egrave;rent, except&eacute; Iblis qui refusa.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a117" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">117</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَقُلنا يٰـٔادَمُ إِنَّ هٰذا عَدُوٌّ لَكَ وَلِزَوجِكَ فَلا يُخرِجَنَّكُما مِنَ الجَنَّةِ فَتَشقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Alors Nous d&icirc;mes: &laquo;O Adam, celui-l&agrave; est vraiment un ennemi pour toi et ton &eacute;pouse. Prenez garde qu'il vous fasse sortir du Paradis, car alors tu seras malheureux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a118" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">118</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّ لَكَ أَلّا تَجوعَ فيها وَلا تَعرىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Car tu n'y auras pas faim ni ne seras nu,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a119" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">119</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَأَنَّكَ لا تَظمَؤُا۟ فيها وَلا تَضحىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>tu n'y auras pas soif ni ne seras frapp&eacute; par l'ardeur du soleil&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a120" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">120</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَوَسوَسَ إِلَيهِ الشَّيطٰنُ قالَ يٰـٔادَمُ هَل أَدُلُّكَ عَلىٰ شَجَرَةِ الخُلدِ وَمُلكٍ لا يَبلىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Puis le Diable le tenta en disant: &laquo;O Adam, t'indiquerai-je l'arbre de l'&eacute;ternit&eacute; et un royaume imp&eacute;rissable?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a121" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">121</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَأَكَلا مِنها فَبَدَت لَهُما سَوءٰتُهُما وَطَفِقا يَخصِفانِ عَلَيهِما مِن وَرَقِ الجَنَّةِ ۚ وَعَصىٰ ءادَمُ رَبَّهُ فَغَوىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Tous deux (Adam et Eve) en mang&egrave;rent. Alors leur apparut leur nudit&eacute;. Ils se mirent &agrave; se couvrir avec des feuilles du paradis. Adam d&eacute;sob&eacute;it ainsi &agrave; son Seigneur et il s'&eacute;gara.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a122" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">122</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">ثُمَّ اجتَبٰهُ رَبُّهُ فَتابَ عَلَيهِ وَهَدىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Son Seigneur l'a ensuite &eacute;lu, agr&eacute;&eacute; son repentir et l'a guid&eacute;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a123" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">123</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ اهبِطا مِنها جَميعًا ۖ بَعضُكُم لِبَعضٍ عَدُوٌّ ۖ فَإِمّا يَأتِيَنَّكُم مِنّى هُدًى فَمَنِ اتَّبَعَ هُداىَ فَلا يَضِلُّ وَلا يَشقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dit: &laquo;Descendez d'ici, (Adam et Eve), [Vous serez] tous (avec vos descendants) ennemis les uns des autres. Puis, si jamais un guide vous vient de Ma part, quiconque suit Mon guide ne s'&eacute;garera ni ne sera malheureux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a124" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">124</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمَن أَعرَضَ عَن ذِكرى فَإِنَّ لَهُ مَعيشَةً ضَنكًا وَنَحشُرُهُ يَومَ القِيٰمَةِ أَعمىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et quiconque se d&eacute;tourne de Mon Rappel, m&egrave;nera certes, une vie pleine de g&ecirc;ne, et le Jour de la R&eacute;surrection Nous l'am&egrave;nerons aveugle au rassemblement&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a125" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">125</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ رَبِّ لِمَ حَشَرتَنى أَعمىٰ وَقَد كُنتُ بَصيرًا</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il dira: &laquo;O mon Seigneur, pourquoi m'as-Tu amen&eacute; aveugle alors qu'auparavant je voyais?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a126" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">126</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قالَ كَذٰلِكَ أَتَتكَ ءايٰتُنا فَنَسيتَها ۖ وَكَذٰلِكَ اليَومَ تُنسىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>[Allah lui] dira: &laquo;De m&ecirc;me que Nos Signes (enseignements) t'&eacute;taient venus et que tu les as oubli&eacute;s, ainsi aujourd'hui tu es oubli&eacute;&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a127" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">127</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَكَذٰلِكَ نَجزى مَن أَسرَفَ وَلَم يُؤمِن بِـٔايٰتِ رَبِّهِ ۚ وَلَعَذابُ الءاخِرَةِ أَشَدُّ وَأَبقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ainsi sanctionnons-nous l'outrancier qui ne croit pas aux r&eacute;v&eacute;lations de son Seigneur. Et certes, le ch&acirc;timent de l'au-del&agrave; est plus s&eacute;v&egrave;re et plus durable.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a128" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">128</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَفَلَم يَهدِ لَهُم كَم أَهلَكنا قَبلَهُم مِنَ القُرونِ يَمشونَ فى مَسٰكِنِهِم ۗ إِنَّ فى ذٰلِكَ لَءايٰتٍ لِأُولِى النُّهىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Cela ne leur a-t-il pas servi de direction, que Nous ayons fait p&eacute;rir avant eux tant de g&eacute;n&eacute;rations dans les demeures desquelles ils marchent maintenant? Voil&agrave; bien l&agrave; des le&ccedil;ons pour les dou&eacute;s d'intelligence!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a129" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">129</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَولا كَلِمَةٌ سَبَقَت مِن رَبِّكَ لَكانَ لِزامًا وَأَجَلٌ مُسَمًّى</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>N'eussent-&eacute;t&eacute; un d&eacute;cret pr&eacute;alable de ton Seigneur et aussi un terme d&eacute;j&agrave; fix&eacute;, (leur ch&acirc;timent) aurait &eacute;t&eacute; in&eacute;vitable (et imm&eacute;diat).</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a130" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">130</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَاصبِر عَلىٰ ما يَقولونَ وَسَبِّح بِحَمدِ رَبِّكَ قَبلَ طُلوعِ الشَّمسِ وَقَبلَ غُروبِها ۖ وَمِن ءانائِ الَّيلِ فَسَبِّح وَأَطرافَ النَّهارِ لَعَلَّكَ تَرضىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Supporte patiemment ce qu'ils disent et c&eacute;l&egrave;bre Sa louange, avant le lever du soleil, avant son coucher et pendant la nuit; et exalte Sa Gloire aux extr&eacute;mit&eacute;s du jour. Peut-&ecirc;tre auras-tu satisfaction:</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a131" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">131</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلا تَمُدَّنَّ عَينَيكَ إِلىٰ ما مَتَّعنا بِهِ أَزوٰجًا مِنهُم زَهرَةَ الحَيوٰةِ الدُّنيا لِنَفتِنَهُم فيهِ ۚ وَرِزقُ رَبِّكَ خَيرٌ وَأَبقىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et ne tends point les yeux vers ce dont Nous avons donn&eacute; jouissance temporaire &agrave; certains groupes d'entre eux, comme d&eacute;cor de la vie pr&eacute;sente, afin de les &eacute;prouver par cela. Ce qu'Allah fournit (au Paradis) est meilleur et plus durable.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a132" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">132</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَأمُر أَهلَكَ بِالصَّلوٰةِ وَاصطَبِر عَلَيها ۖ لا نَسـَٔلُكَ رِزقًا ۖ نَحنُ نَرزُقُكَ ۗ وَالعٰقِبَةُ لِلتَّقوىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et commande &agrave; ta famille la Sal&acirc;t, et fais-la avec pers&eacute;v&eacute;rance. Nous ne te demandons point de nourriture: c'est &agrave; Nous de te nourrir. La bonne fin est r&eacute;serv&eacute;e &agrave; la pi&eacute;t&eacute;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a133" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">133</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَقالوا لَولا يَأتينا بِـٔايَةٍ مِن رَبِّهِ ۚ أَوَلَم تَأتِهِم بَيِّنَةُ ما فِى الصُّحُفِ الأولىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et ils disent: &laquo;Pourquoi ne nous apporte-t-il pas un miracle de son Seigneur? La Preuve (le Coran) de ce que contiennent les Ecritures anciennes ne leur est-elle pas venue?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a134" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">134</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَو أَنّا أَهلَكنٰهُم بِعَذابٍ مِن قَبلِهِ لَقالوا رَبَّنا لَولا أَرسَلتَ إِلَينا رَسولًا فَنَتَّبِعَ ءايٰتِكَ مِن قَبلِ أَن نَذِلَّ وَنَخزىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et si Nous les avions fait p&eacute;rir par un ch&acirc;timent avant lui [Muhammad], ils auraient certainement dit: &laquo;O notre Seigneur, pourquoi ne nous as-Tu pas envoy&eacute; de Messager? Nous aurions alors suivi Tes enseignements avant d'avoir &eacute;t&eacute; humili&eacute;s et jet&eacute;s dans l'ignominie&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a135" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">135</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options">
+<div>
+<p></p>
+</div>
+</div>
+<div class="quran-content">قُل كُلٌّ مُتَرَبِّصٌ فَتَرَبَّصوا ۖ فَسَتَعلَمونَ مَن أَصحٰبُ الصِّرٰطِ السَّوِىِّ وَمَنِ اهتَدىٰ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Dis: &laquo;Chacun attend. Attendez donc! Vous saurez bient&ocirc;t qui sont les gens du droit chemin et qui sont les bien-guid&eacute;s&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</article>
+</div>
+<div id="suranav2" class="suranav"></div>
+</div>
+<footer id="footer" class="none">
+<p></p>
+<div class="footer-wrap">
+<div class="footer-meta">
+<div class="footer-meta-content">
+<div class="footer-sec"></div>
+</div>
+</div>
+</div>
+</footer>
+
+
+</body>
+
+
+
+</html>

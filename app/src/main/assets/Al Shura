@@ -1,0 +1,1021 @@
+<html>
+
+
+<head>
+
+<style>
+section{
+    
+   
+    border-bottom:solid;
+    
+
+    
+}
+
+h2{
+
+  font-size:10px;
+  display:none;
+  
+}
+
+.verse-number{
+text-align:left;
+font-size:35px;
+margin:10px;
+
+  
+
+
+}
+
+
+.quran-content{
+
+ font-family:Courier New;
+font-size:35px;
+margin:10px;
+text-align:right;
+
+
+}
+
+
+p{
+
+text-align:left;
+margin:10px;
+font-size:20px;
+
+}
+ section:nth-child(even){
+        
+    }
+
+
+.basmalah{
+
+text-align:center;
+font-size:20px;
+
+}
+
+
+.ar{
+text-align:center;
+
+font-size:35px;
+
+}
+
+
+p.barebones-ltr {
+text-align:center;
+font-size:26px;
+
+
+}
+
+b{
+
+display:none;
+
+}
+
+
+
+
+</style>
+</head>
+
+
+<body>
+
+
+
+<div id="contentp" class="none">
+<div id="content-container">
+<section class="basmalah">
+<p class="ar">بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ</p>
+<p class="barebones-ltr"><b>MUHAMMAD HAMIDULLAH</b> Au nom d'Allah, le Tout Mis&eacute;ricordieux, le Tr&egrave;s Mis&eacute;ricordieux.</p>
+</section>
+<article>
+<section>
+<div class="verse-wrapper" id="a1" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">1</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">حم</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>H'&acirc;, M&icirc;m.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a2" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">2</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options">
+<div>
+<p><a title="Generate link" onclick="ayaclick(this.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode,0);"><i class="fa fa-link fa-flip-horizontal fa-2x"></i></a></p>
+<p><a title="Select" onclick="ayaclick(this.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode,1)"><i class="fa fa-hand-o-up fa-2x"></i></a></p>
+</div>
+</div>
+<div class="quran-content">عسق</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>A&icirc;n, S&icirc;n, Q&acirc;f.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a3" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">3</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">كَذٰلِكَ يوحى إِلَيكَ وَإِلَى الَّذينَ مِن قَبلِكَ اللَّهُ العَزيزُ الحَكيمُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>C'est ainsi qu'Allah, le Puissant, le Sage, te fait des r&eacute;v&eacute;lations, comme &agrave; ceux qui ont v&eacute;cu avant toi.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a4" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">4</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لَهُ ما فِى السَّمٰوٰتِ وَما فِى الأَرضِ ۖ وَهُوَ العَلِىُّ العَظيمُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>A Lui appartient ce qui est dans les cieux et ce qui est sur la terre. Et Il est le Sublime, le Tr&egrave;s Grand,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a5" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">5</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">تَكادُ السَّمٰوٰتُ يَتَفَطَّرنَ مِن فَوقِهِنَّ ۚ وَالمَلٰئِكَةُ يُسَبِّحونَ بِحَمدِ رَبِّهِم وَيَستَغفِرونَ لِمَن فِى الأَرضِ ۗ أَلا إِنَّ اللَّهَ هُوَ الغَفورُ الرَّحيمُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Peu s'en faut que les cieux ne se fendent depuis leur fa&icirc;te quand les anges glorifient leur Seigneur, c&eacute;l&egrave;brent Ses louanges et implorent le pardon pour ceux qui sont sur la terre. Allah est certes le Pardonneur, le Tr&egrave;s Mis&eacute;ricordieux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a6" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">6</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَالَّذينَ اتَّخَذوا مِن دونِهِ أَولِياءَ اللَّهُ حَفيظٌ عَلَيهِم وَما أَنتَ عَلَيهِم بِوَكيلٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et quant &agrave; ceux qui prennent des protecteurs en dehors de Lui, Allah veille &agrave; ce qu'ils font. Et tu n'es pas pour eux un garant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a7" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">7</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَكَذٰلِكَ أَوحَينا إِلَيكَ قُرءانًا عَرَبِيًّا لِتُنذِرَ أُمَّ القُرىٰ وَمَن حَولَها وَتُنذِرَ يَومَ الجَمعِ لا رَيبَ فيهِ ۚ فَريقٌ فِى الجَنَّةِ وَفَريقٌ فِى السَّعيرِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et c'est ainsi que Nous t'avons r&eacute;v&eacute;l&eacute; un Coran arabe, afin que tu avertisses la M&egrave;re des cit&eacute;s (la Mecque) et ses alentours et que tu avertisses du Jour du rassemblement, - sur lequel il n'y a pas de doute - Un groupe au Paradis et un groupe dans la fournaise ardente.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a8" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">8</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَو شاءَ اللَّهُ لَجَعَلَهُم أُمَّةً وٰحِدَةً وَلٰكِن يُدخِلُ مَن يَشاءُ فى رَحمَتِهِ ۚ وَالظّٰلِمونَ ما لَهُم مِن وَلِىٍّ وَلا نَصيرٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et si Allah avait voulu, Il en aurait fait une seule communaut&eacute;. Mais Il fait entrer qui Il veut dans Sa mis&eacute;ricorde. Et les injustes n'auront ni ma&icirc;tre ni secoureur.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a9" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">9</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَمِ اتَّخَذوا مِن دونِهِ أَولِياءَ ۖ فَاللَّهُ هُوَ الوَلِىُّ وَهُوَ يُحىِ المَوتىٰ وَهُوَ عَلىٰ كُلِّ شَيءٍ قَديرٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ont-ils pris des ma&icirc;tres en dehors de Lui ? C'est Allah qui est le seul Ma&icirc;tre et c'est Lui qui redonne la vie aux morts; et c'est Lui qui est Omnipotent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a10" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">10</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمَا اختَلَفتُم فيهِ مِن شَيءٍ فَحُكمُهُ إِلَى اللَّهِ ۚ ذٰلِكُمُ اللَّهُ رَبّى عَلَيهِ تَوَكَّلتُ وَإِلَيهِ أُنيبُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Sur toutes vos divergences, le jugement appartient &agrave; Allah. Tel est Allah mon Seigneur; en Lui je place ma confiance et c'est &agrave; Lui que je retourne [repentant]</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a11" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">11</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فاطِرُ السَّمٰوٰتِ وَالأَرضِ ۚ جَعَلَ لَكُم مِن أَنفُسِكُم أَزوٰجًا وَمِنَ الأَنعٰمِ أَزوٰجًا ۖ يَذرَؤُكُم فيهِ ۚ لَيسَ كَمِثلِهِ شَيءٌ ۖ وَهُوَ السَّميعُ البَصيرُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>...Cr&eacute;ateur des cieux et de la terre. Il vous a donn&eacute; des &eacute;pouses [issues] de vous-m&ecirc;mes et des bestiaux par couples; par ce moyen Il vous multiplie. Il n'y a rien qui Lui ressemble; et c'est Lui l'Audient, le Clairvoyant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a12" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">12</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لَهُ مَقاليدُ السَّمٰوٰتِ وَالأَرضِ ۖ يَبسُطُ الرِّزقَ لِمَن يَشاءُ وَيَقدِرُ ۚ إِنَّهُ بِكُلِّ شَيءٍ عَليمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il poss&egrave;de les clefs [des tr&eacute;sors] des cieux et de la terre. Il attribue Ses dons avec largesse, ou les restreint &agrave; qui Il veut. Certes, Il est Omniscient.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a13" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">13</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ شَرَعَ لَكُم مِنَ الدّينِ ما وَصّىٰ بِهِ نوحًا وَالَّذى أَوحَينا إِلَيكَ وَما وَصَّينا بِهِ إِبرٰهيمَ وَموسىٰ وَعيسىٰ ۖ أَن أَقيمُوا الدّينَ وَلا تَتَفَرَّقوا فيهِ ۚ كَبُرَ عَلَى المُشرِكينَ ما تَدعوهُم إِلَيهِ ۚ اللَّهُ يَجتَبى إِلَيهِ مَن يَشاءُ وَيَهدى إِلَيهِ مَن يُنيبُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il vous a l&eacute;gif&eacute;r&eacute; en mati&egrave;re de religion, ce qu'Il avait enjoint &agrave; No&eacute;, ce que Nous t'avons r&eacute;v&eacute;l&eacute;, ainsi que ce que Nous avons enjoint &agrave; Abraham, &agrave; Mo&iuml;se et &agrave; J&eacute;sus: &laquo;Etablissez la religion; et n'en faites pas un sujet de divisions&raquo;. Ce &agrave; quoi tu appelles les associateurs leur para&icirc;t &eacute;norme Allah &eacute;lit et rapproche de Lui qui Il veut et guide vers Lui celui qui se repent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a14" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">14</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَما تَفَرَّقوا إِلّا مِن بَعدِ ما جاءَهُمُ العِلمُ بَغيًا بَينَهُم ۚ وَلَولا كَلِمَةٌ سَبَقَت مِن رَبِّكَ إِلىٰ أَجَلٍ مُسَمًّى لَقُضِىَ بَينَهُم ۚ وَإِنَّ الَّذينَ أورِثُوا الكِتٰبَ مِن بَعدِهِم لَفى شَكٍّ مِنهُ مُريبٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils ne se sont divis&eacute;s qu'apr&egrave;s avoir re&ccedil;u la science et ceci par rivalit&eacute; entre eux. Et si ce n'&eacute;tait une parole pr&eacute;alable de ton Seigneur pour un terme fix&eacute;, on aurait certainement tranch&eacute; entre eux. Ceux &agrave; qui le Livre a &eacute;t&eacute; donn&eacute; en h&eacute;ritage apr&egrave;s eux sont vraiment &agrave; son sujet, dans un doute troublant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a15" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">15</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَلِذٰلِكَ فَادعُ ۖ وَاستَقِم كَما أُمِرتَ ۖ وَلا تَتَّبِع أَهواءَهُم ۖ وَقُل ءامَنتُ بِما أَنزَلَ اللَّهُ مِن كِتٰبٍ ۖ وَأُمِرتُ لِأَعدِلَ بَينَكُمُ ۖ اللَّهُ رَبُّنا وَرَبُّكُم ۖ لَنا أَعمٰلُنا وَلَكُم أَعمٰلُكُم ۖ لا حُجَّةَ بَينَنا وَبَينَكُمُ ۖ اللَّهُ يَجمَعُ بَينَنا ۖ وَإِلَيهِ المَصيرُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Appelle donc (les gens) &agrave; cela; reste droit comme il t'a &eacute;t&eacute; command&eacute;; ne suis pas leurs passions; et dis: &laquo;Je crois en tout ce qu'Allah a fait descendre comme Livre, et il m'a &eacute;t&eacute; command&eacute; d'&ecirc;tre &eacute;quitable entre vous. Allah est notre Seigneur et votre Seigneur. A nous nos &oelig;uvres et &agrave; vous vos &oelig;uvres. Aucun argument [ne peut trancher] entre nous et vous. Allah nous regroupera tous. Et vers Lui est la destination&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a16" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">16</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَالَّذينَ يُحاجّونَ فِى اللَّهِ مِن بَعدِ مَا استُجيبَ لَهُ حُجَّتُهُم داحِضَةٌ عِندَ رَبِّهِم وَعَلَيهِم غَضَبٌ وَلَهُم عَذابٌ شَديدٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et ceux qui discutent au sujet d'Allah, apr&egrave;s qu'il a &eacute;t&eacute; r&eacute;pondu &agrave; [Son appel], leur argumentation est aupr&egrave;s d'Allah sans valeur. Une col&egrave;re tombera sur eux et ils auront un dur ch&acirc;timent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a17" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">17</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اللَّهُ الَّذى أَنزَلَ الكِتٰبَ بِالحَقِّ وَالميزانَ ۗ وَما يُدريكَ لَعَلَّ السّاعَةَ قَريبٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>C'est Allah qui a fait descendre le Livre en toute v&eacute;rit&eacute;, ainsi que la balance. Et qu'en sais-tu? Peut-&ecirc;tre que l'Heure est proche?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a18" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">18</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يَستَعجِلُ بِهَا الَّذينَ لا يُؤمِنونَ بِها ۖ وَالَّذينَ ءامَنوا مُشفِقونَ مِنها وَيَعلَمونَ أَنَّهَا الحَقُّ ۗ أَلا إِنَّ الَّذينَ يُمارونَ فِى السّاعَةِ لَفى ضَلٰلٍ بَعيدٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ceux qui n'y croient pas cherchent &agrave; la h&acirc;ter; tandis que ceux qui croient en sont craintifs et savent qu'elle est la pure v&eacute;rit&eacute;. Et ceux qui discutent &agrave; propos de l'Heure sont dans un &eacute;garement lointain.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a19" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">19</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">اللَّهُ لَطيفٌ بِعِبادِهِ يَرزُقُ مَن يَشاءُ ۖ وَهُوَ القَوِىُّ العَزيزُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allah est doux envers Ses serviteurs. Il attribue [Ses biens] &agrave; qui Il veut. Et c'est Lui le Fort, le Puissant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a20" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">20</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">مَن كانَ يُريدُ حَرثَ الءاخِرَةِ نَزِد لَهُ فى حَرثِهِ ۖ وَمَن كانَ يُريدُ حَرثَ الدُّنيا نُؤتِهِ مِنها وَما لَهُ فِى الءاخِرَةِ مِن نَصيبٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Quiconque d&eacute;sire labourer [le champ] de la vie future, Nous augmenterons pour lui son labour. Quiconque d&eacute;sire labourer [le champ] de la pr&eacute;sente vie, Nous lui en accorderons de [ses jouissances]; mais il n'aura pas de part dans l'au-del&agrave;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a21" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">21</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَم لَهُم شُرَكٰؤُا۟ شَرَعوا لَهُم مِنَ الدّينِ ما لَم يَأذَن بِهِ اللَّهُ ۚ وَلَولا كَلِمَةُ الفَصلِ لَقُضِىَ بَينَهُم ۗ وَإِنَّ الظّٰلِمينَ لَهُم عَذابٌ أَليمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ou bien auraient-ils des associ&eacute;s [&agrave; Allah] qui auraient &eacute;tabli pour eux des lois religieuses qu'Allah n'a jamais permises? Or, si l'arr&ecirc;t d&eacute;cisif n'avait pas &eacute;t&eacute; prononc&eacute;, il aurait &eacute;t&eacute; tranch&eacute; entre eux. Les injustes auront certes un ch&acirc;timent douloureux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a22" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">22</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">تَرَى الظّٰلِمينَ مُشفِقينَ مِمّا كَسَبوا وَهُوَ واقِعٌ بِهِم ۗ وَالَّذينَ ءامَنوا وَعَمِلُوا الصّٰلِحٰتِ فى رَوضاتِ الجَنّاتِ ۖ لَهُم ما يَشاءونَ عِندَ رَبِّهِم ۚ ذٰلِكَ هُوَ الفَضلُ الكَبيرُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Tu verras les injustes &eacute;pouvant&eacute;s par ce qu'ils ont fait, et le ch&acirc;timent s'abattra sur eux (in&eacute;luctablement). Et ceux qui croient et accomplissent les bonnes &oelig;uvres, seront dans les sites fleuris des jardins, ayant ce qu'ils voudront aupr&egrave;s de leur Seigneur. Telle est la grande gr&acirc;ce!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a23" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">23</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">ذٰلِكَ الَّذى يُبَشِّرُ اللَّهُ عِبادَهُ الَّذينَ ءامَنوا وَعَمِلُوا الصّٰلِحٰتِ ۗ قُل لا أَسـَٔلُكُم عَلَيهِ أَجرًا إِلَّا المَوَدَّةَ فِى القُربىٰ ۗ وَمَن يَقتَرِف حَسَنَةً نَزِد لَهُ فيها حُسنًا ۚ إِنَّ اللَّهَ غَفورٌ شَكورٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Telle est la [bonne nouvelle] qu'Allah annonce &agrave; ceux de Ses serviteurs qui croient et accomplissent les bonnes &oelig;uvres! Dis: &laquo;Je ne vous en demande aucun salaire si ce n'est l'affection eu &eacute;gard &agrave; [nos liens] de parent&eacute;&raquo;. Et quiconque accomplit une bonne action, Nous r&eacute;pondons par [une r&eacute;compense] plus belle encore. Allah est certes Pardonneur et Reconnaissant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a24" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">24</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَم يَقولونَ افتَرىٰ عَلَى اللَّهِ كَذِبًا ۖ فَإِن يَشَإِ اللَّهُ يَختِم عَلىٰ قَلبِكَ ۗ وَيَمحُ اللَّهُ البٰطِلَ وَيُحِقُّ الحَقَّ بِكَلِمٰتِهِ ۚ إِنَّهُ عَليمٌ بِذاتِ الصُّدورِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ou bien ils disent il a invent&eacute; un mensonge contre Allah. Or, si Allah voulait, Il scellerait ton c&oelig;ur. Par Ses Paroles cependant, Allah efface le faux et confirme le vrai. Il conna&icirc;t parfaitement le contenu des poitrines.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a25" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">25</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَهُوَ الَّذى يَقبَلُ التَّوبَةَ عَن عِبادِهِ وَيَعفوا عَنِ السَّيِّـٔاتِ وَيَعلَمُ ما تَفعَلونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et c'est lui qui agr&eacute;e de Ses serviteurs le repentir, pardonne les m&eacute;faits et sait ce que vous faites,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a26" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">26</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَيَستَجيبُ الَّذينَ ءامَنوا وَعَمِلُوا الصّٰلِحٰتِ وَيَزيدُهُم مِن فَضلِهِ ۚ وَالكٰفِرونَ لَهُم عَذابٌ شَديدٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et exauce [les v&oelig;ux] de ceux qui croient et accomplissent les bonnes &oelig;uvres et leur accro&icirc;t Sa faveur, tandis que les m&eacute;cr&eacute;ants ont un dur ch&acirc;timent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a27" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">27</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ وَلَو بَسَطَ اللَّهُ الرِّزقَ لِعِبادِهِ لَبَغَوا فِى الأَرضِ وَلٰكِن يُنَزِّلُ بِقَدَرٍ ما يَشاءُ ۚ إِنَّهُ بِعِبادِهِ خَبيرٌ بَصيرٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Si Allah attribuait Ses dons avec largesse &agrave; [tous] Ses serviteurs, ils commettraient des abus sur la terre; mais, Il fait descendre avec mesure ce qu'Il veut. Il conna&icirc;t parfaitement Ses serviteurs et en est Clairvoyant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a28" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">28</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَهُوَ الَّذى يُنَزِّلُ الغَيثَ مِن بَعدِ ما قَنَطوا وَيَنشُرُ رَحمَتَهُ ۚ وَهُوَ الوَلِىُّ الحَميدُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et c'est Lui qui fait descendre la pluie apr&egrave;s qu'on en a d&eacute;sesp&eacute;r&eacute;, et r&eacute;pand Sa mis&eacute;ricorde. Et c'est Lui le Ma&icirc;tre, le Digne de louange.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a29" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">29</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمِن ءايٰتِهِ خَلقُ السَّمٰوٰتِ وَالأَرضِ وَما بَثَّ فيهِما مِن دابَّةٍ ۚ وَهُوَ عَلىٰ جَمعِهِم إِذا يَشاءُ قَديرٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Parmi Ses preuves est la cr&eacute;ation des cieux et de la terre et des &ecirc;tres vivants qu'Il y a diss&eacute;min&eacute;s. Il a en outre le pouvoir de les r&eacute;unir quand Il voudra.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a30" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">30</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَما أَصٰبَكُم مِن مُصيبَةٍ فَبِما كَسَبَت أَيديكُم وَيَعفوا عَن كَثيرٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Tout malheur qui vous atteint est d&ucirc; &agrave; ce que vos mains ont acquis. Et Il pardonne beaucoup.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a31" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">31</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَما أَنتُم بِمُعجِزينَ فِى الأَرضِ ۖ وَما لَكُم مِن دونِ اللَّهِ مِن وَلِىٍّ وَلا نَصيرٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Vous ne pouvez pas &eacute;chapper &agrave; la puissance d'Allah sur la terre; et vous n'avez en dehors d'Allah, ni ma&icirc;tre ni d&eacute;fenseur.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a32" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">32</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمِن ءايٰتِهِ الجَوارِ فِى البَحرِ كَالأَعلٰمِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et parmi Ses preuves, sont les vaisseaux &agrave; travers la mer, semblables &agrave; des montagnes.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a33" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">33</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِن يَشَأ يُسكِنِ الرّيحَ فَيَظلَلنَ رَواكِدَ عَلىٰ ظَهرِهِ ۚ إِنَّ فى ذٰلِكَ لَءايٰتٍ لِكُلِّ صَبّارٍ شَكورٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>S'Il veut, Il calme le vent, et les voil&agrave; qui restent immobiles &agrave; sa surface. Ce sont certainement l&agrave; des preuves pour tout [homme] endurant et reconnaissant.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a34" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">34</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَو يوبِقهُنَّ بِما كَسَبوا وَيَعفُ عَن كَثيرٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ou bien, Il les d&eacute;truit en punition de ce qu'ils ont acquis [comme p&eacute;ch&eacute;s]. Cependant, Il pardonne beaucoup.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a35" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">35</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَيَعلَمَ الَّذينَ يُجٰدِلونَ فى ءايٰتِنا ما لَهُم مِن مَحيصٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ceux qui disputent &agrave; propos de Nos preuves savent bien qu'ils n'ont pas d'&eacute;chappatoire.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a36" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">36</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَما أوتيتُم مِن شَيءٍ فَمَتٰعُ الحَيوٰةِ الدُّنيا ۖ وَما عِندَ اللَّهِ خَيرٌ وَأَبقىٰ لِلَّذينَ ءامَنوا وَعَلىٰ رَبِّهِم يَتَوَكَّلونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Tout ce qui vous a &eacute;t&eacute; donn&eacute; [comme bien] n'est que jouissance de la vie pr&eacute;sente; mais ce qui est aupr&egrave;s d'Allah est meilleur et plus durable pour ceux qui ont cru et qui placent leur confiance en leur Seigneur,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a37" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">37</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَالَّذينَ يَجتَنِبونَ كَبٰئِرَ الإِثمِ وَالفَوٰحِشَ وَإِذا ما غَضِبوا هُم يَغفِرونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>qui &eacute;vitent [de commettre] les p&eacute;ch&eacute;s les plus graves ainsi que les turpitudes, et qui pardonnent apr&egrave;s s'&ecirc;tre mis en col&egrave;re,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a38" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">38</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَالَّذينَ استَجابوا لِرَبِّهِم وَأَقامُوا الصَّلوٰةَ وَأَمرُهُم شورىٰ بَينَهُم وَمِمّا رَزَقنٰهُم يُنفِقونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>qui r&eacute;pondent &agrave; l'appel de leur Seigneur, accomplissent la Sal&acirc;t, se consultent entre eux &agrave; propos de leurs affaires, d&eacute;pensent de ce que Nous leur attribuons,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a39" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">39</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَالَّذينَ إِذا أَصابَهُمُ البَغىُ هُم يَنتَصِرونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>et qui, atteints par l'injustice, ripostent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a40" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">40</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَجَزٰؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِثلُها ۖ فَمَن عَفا وَأَصلَحَ فَأَجرُهُ عَلَى اللَّهِ ۚ إِنَّهُ لا يُحِبُّ الظّٰلِمينَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>La sanction d'une mauvaise action est une mauvaise action [une peine] identique. Mais quiconque pardonne et r&eacute;forme, son salaire incombe &agrave; Allah. Il n'aime point les injustes!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a41" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">41</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَمَنِ انتَصَرَ بَعدَ ظُلمِهِ فَأُولٰئِكَ ما عَلَيهِم مِن سَبيلٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Quant &agrave; ceux qui ripostent apr&egrave;s avoir &eacute;t&eacute; l&eacute;s&eacute;s, ...ceux-l&agrave; pas de voie (recours l&eacute;gal) contre eux;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a42" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">42</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّمَا السَّبيلُ عَلَى الَّذينَ يَظلِمونَ النّاسَ وَيَبغونَ فِى الأَرضِ بِغَيرِ الحَقِّ ۚ أُولٰئِكَ لَهُم عَذابٌ أَليمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>il n'y a de voie [de recours] que contre ceux qui l&egrave;sent les gens et commettent des abus, contrairement au droit, sur la terre: ceux-l&agrave; auront un ch&acirc;timent douloureux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a43" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">43</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذٰلِكَ لَمِن عَزمِ الأُمورِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et celui qui endure et pardonne, cela en v&eacute;rit&eacute;, fait partie des bonnes dispositions et de la r&eacute;solution dans les affaires.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a44" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">44</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَمَن يُضلِلِ اللَّهُ فَما لَهُ مِن وَلِىٍّ مِن بَعدِهِ ۗ وَتَرَى الظّٰلِمينَ لَمّا رَأَوُا العَذابَ يَقولونَ هَل إِلىٰ مَرَدٍّ مِن سَبيلٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et quiconque Allah &eacute;gare n'a aucun protecteur apr&egrave;s Lui. Cependant tu verras les injustes dire, en voyant le ch&acirc;timent: &laquo;Y a-t-il un moyen de retourner [sur terre]?&raquo;</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a45" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">45</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَتَرىٰهُم يُعرَضونَ عَلَيها خٰشِعينَ مِنَ الذُّلِّ يَنظُرونَ مِن طَرفٍ خَفِىٍّ ۗ وَقالَ الَّذينَ ءامَنوا إِنَّ الخٰسِرينَ الَّذينَ خَسِروا أَنفُسَهُم وَأَهليهِم يَومَ القِيٰمَةِ ۗ أَلا إِنَّ الظّٰلِمينَ فى عَذابٍ مُقيمٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et tu les verras expos&eacute;s devant l'Enfer, confondus dans l'avilissement, et regardant d'un &oelig;il furtif, tandis que ceux qui ont cru diront: &laquo;Les perdants sont certes, ceux qui au Jour de la R&eacute;surrection font leur propre perte et celle de leurs familles&raquo;. Les injustes subiront certes un ch&acirc;timent permanent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a46" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">46</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَما كانَ لَهُم مِن أَولِياءَ يَنصُرونَهُم مِن دونِ اللَّهِ ۗ وَمَن يُضلِلِ اللَّهُ فَما لَهُ مِن سَبيلٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ils n'auront pas de protecteur en dehors d'Allah pour les secourir et quiconque Allah &eacute;gare n'a plus aucune voie.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a47" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">47</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">استَجيبوا لِرَبِّكُم مِن قَبلِ أَن يَأتِىَ يَومٌ لا مَرَدَّ لَهُ مِنَ اللَّهِ ۚ ما لَكُم مِن مَلجَإٍ يَومَئِذٍ وَما لَكُم مِن نَكيرٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>R&eacute;pondez &agrave; l'appel de votre Seigneur avant que ne vienne un jour dont Allah ne reportera jamais le terme. Ce jour-l&agrave;, nul refuge pour vous et vous ne pourrez point nier (vos p&eacute;ch&eacute;s).</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a48" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">48</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">فَإِن أَعرَضوا فَما أَرسَلنٰكَ عَلَيهِم حَفيظًا ۖ إِن عَلَيكَ إِلَّا البَلٰغُ ۗ وَإِنّا إِذا أَذَقنَا الإِنسٰنَ مِنّا رَحمَةً فَرِحَ بِها ۖ وَإِن تُصِبهُم سَيِّئَةٌ بِما قَدَّمَت أَيديهِم فَإِنَّ الإِنسٰنَ كَفورٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>S'ils se d&eacute;tournent, ...Nous ne t'avons pas envoy&eacute; pour assurer leur sauvegarde: tu n'es charg&eacute; que de transmettre [le message]. Et lorsque Nous faisons go&ucirc;ter &agrave; l'homme une mis&eacute;ricorde venant de Nous, il en exulte; mais si un malheur les atteint pour ce que leurs mains ont perp&eacute;tr&eacute;..., l'homme est alors tr&egrave;s ingrat!</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a49" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">49</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لِلَّهِ مُلكُ السَّمٰوٰتِ وَالأَرضِ ۚ يَخلُقُ ما يَشاءُ ۚ يَهَبُ لِمَن يَشاءُ إِنٰثًا وَيَهَبُ لِمَن يَشاءُ الذُّكورَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>A Allah appartient la royaut&eacute; des cieux et de la terre. Il cr&eacute;e ce qu'Il veut. Il fait don de filles &agrave; qui Il veut, et don de gar&ccedil;ons &agrave; qui Il veut,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a50" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">50</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">أَو يُزَوِّجُهُم ذُكرانًا وَإِنٰثًا ۖ وَيَجعَلُ مَن يَشاءُ عَقيمًا ۚ إِنَّهُ عَليمٌ قَديرٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>ou bien Il donne &agrave; la fois gar&ccedil;ons et filles; et Il rend st&eacute;rile qui Il veut. Il est certes Omniscient et Omnipotent.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a51" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">51</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ وَما كانَ لِبَشَرٍ أَن يُكَلِّمَهُ اللَّهُ إِلّا وَحيًا أَو مِن وَرائِ حِجابٍ أَو يُرسِلَ رَسولًا فَيوحِىَ بِإِذنِهِ ما يَشاءُ ۚ إِنَّهُ عَلِىٌّ حَكيمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il n'a pas &eacute;t&eacute; donn&eacute; &agrave; un mortel qu'Allah lui parle autrement que par r&eacute;v&eacute;lation ou de derri&egrave;re un voile, ou qu'Il [Lui] envoie un messager (Ange) qui r&eacute;v&egrave;le, par Sa permission, ce qu'Il [Allah] veut. Il est Sublime et Sage.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a52" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">52</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَكَذٰلِكَ أَوحَينا إِلَيكَ روحًا مِن أَمرِنا ۚ ما كُنتَ تَدرى مَا الكِتٰبُ وَلَا الإيمٰنُ وَلٰكِن جَعَلنٰهُ نورًا نَهدى بِهِ مَن نَشاءُ مِن عِبادِنا ۚ وَإِنَّكَ لَتَهدى إِلىٰ صِرٰطٍ مُستَقيمٍ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et c'est ainsi que Nous t'avons r&eacute;v&eacute;l&eacute; un esprit [le Coran] provenant de Notre ordre. Tu n'avais aucune connaissance du Livre ni de la foi; mais Nous en avons fait une lumi&egrave;re par laquelle Nous guidons qui Nous voulons parmi Nos serviteurs. Et en v&eacute;rit&eacute; tu guides vers un chemin droit,</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a53" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">53</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">صِرٰطِ اللَّهِ الَّذى لَهُ ما فِى السَّمٰوٰتِ وَما فِى الأَرضِ ۗ أَلا إِلَى اللَّهِ تَصيرُ الأُمورُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>le chemin d'Allah &agrave; Qui appartient ce qui est dans les cieux et ce qui est sur la terre. Oui c'est &agrave; Allah que s'acheminent toutes les choses.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</article>
+</div>
+<div id="suranav2" class="suranav"></div>
+</div>
+
+
+
+</body>
+
+
+
+</html>

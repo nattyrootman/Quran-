@@ -1,0 +1,340 @@
+<html>
+
+
+
+
+<head>
+
+<style>
+section{
+    
+   
+    border-bottom:solid;
+    
+
+    
+}
+
+h2{
+
+  font-size:10px;
+  display:none;
+  
+}
+
+.verse-number{
+text-align:left;
+font-size:35px;
+margin:10px;
+
+  
+
+
+}
+
+
+.quran-content{
+
+ font-family:Courier New;
+font-size:35px;
+margin:10px;
+text-align:right;
+
+
+}
+
+
+p{
+
+text-align:left;
+margin:10px;
+font-size:20px;
+
+}
+ section:nth-child(even){
+        
+    }
+
+
+.basmalah{
+
+text-align:center;
+font-size:20px;
+
+}
+
+
+.ar{
+text-align:center;
+
+font-size:35px;
+
+}
+
+
+p.barebones-ltr {
+text-align:center;
+font-size:26px;
+
+
+}
+
+b{
+
+display:none;
+
+}
+
+
+
+
+</style>
+</head>
+
+<body>
+
+
+
+
+
+
+<div id="content-container">
+<section class="basmalah">
+<p class="ar">بِسمِ اللَّهِ الرَّحمٰنِ الرَّحيمِ</p>
+<p class="barebones-ltr"><b>MUHAMMAD HAMIDULLAH</b> Au nom d'Allah, le Tout Mis&eacute;ricordieux, le Tr&egrave;s Mis&eacute;ricordieux.</p>
+</section>
+<article>
+<section>
+<div class="verse-wrapper" id="a1" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">1</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يٰأَيُّهَا الَّذينَ ءامَنوا لا تَتَّخِذوا عَدُوّى وَعَدُوَّكُم أَولِياءَ تُلقونَ إِلَيهِم بِالمَوَدَّةِ وَقَد كَفَروا بِما جاءَكُم مِنَ الحَقِّ يُخرِجونَ الرَّسولَ وَإِيّاكُم ۙ أَن تُؤمِنوا بِاللَّهِ رَبِّكُم إِن كُنتُم خَرَجتُم جِهٰدًا فى سَبيلى وَابتِغاءَ مَرضاتى ۚ تُسِرّونَ إِلَيهِم بِالمَوَدَّةِ وَأَنا۠ أَعلَمُ بِما أَخفَيتُم وَما أَعلَنتُم ۚ وَمَن يَفعَلهُ مِنكُم فَقَد ضَلَّ سَواءَ السَّبيلِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>O vous qui avez cru! Ne prenez pas pour alli&eacute;s Mon ennemi et le v&ocirc;tre, leur offrant l'amiti&eacute;, alors qu'ils ont ni&eacute; ce qui vous est parvenu de la v&eacute;rit&eacute;. Ils expulsent le Messager et vous-m&ecirc;mes parce que vous croyez en Allah, votre Seigneur. Si vous &ecirc;tes sortis pour lutter dans Mon chemin et pour rechercher Mon agr&eacute;ment, leur t&eacute;moignerez-vous secr&egrave;tement de l'amiti&eacute;, alors que Je connais parfaitement ce que vous cachez et ce que vous divulguez? Et quiconque d'entre vous le fait s'&eacute;gare de la droiture du sentier.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a2" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">2</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِن يَثقَفوكُم يَكونوا لَكُم أَعداءً وَيَبسُطوا إِلَيكُم أَيدِيَهُم وَأَلسِنَتَهُم بِالسّوءِ وَوَدّوا لَو تَكفُرونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>S'ils vous dominent, ils seront des ennemis pour vous et &eacute;tendront en mal leurs mains et leurs langues vers vous; et ils aimeraient que vous deveniez m&eacute;cr&eacute;ants.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a3" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">3</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لَن تَنفَعَكُم أَرحامُكُم وَلا أَولٰدُكُم ۚ يَومَ القِيٰمَةِ يَفصِلُ بَينَكُم ۚ وَاللَّهُ بِما تَعمَلونَ بَصيرٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Ni vos proches parents ni vos enfants ne vous seront d'aucune utilit&eacute; le Jour de la R&eacute;surrection, Il [Allah] d&eacute;cidera entre vous, et Allah est Clairvoyant sur ce que vous faites.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a4" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">4</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">قَد كانَت لَكُم أُسوَةٌ حَسَنَةٌ فى إِبرٰهيمَ وَالَّذينَ مَعَهُ إِذ قالوا لِقَومِهِم إِنّا بُرَءٰؤُا۟ مِنكُم وَمِمّا تَعبُدونَ مِن دونِ اللَّهِ كَفَرنا بِكُم وَبَدا بَينَنا وَبَينَكُمُ العَدٰوَةُ وَالبَغضاءُ أَبَدًا حَتّىٰ تُؤمِنوا بِاللَّهِ وَحدَهُ إِلّا قَولَ إِبرٰهيمَ لِأَبيهِ لَأَستَغفِرَنَّ لَكَ وَما أَملِكُ لَكَ مِنَ اللَّهِ مِن شَيءٍ ۖ رَبَّنا عَلَيكَ تَوَكَّلنا وَإِلَيكَ أَنَبنا وَإِلَيكَ المَصيرُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Certes, vous avez eu un bel exemple [&agrave; suivre] en Abraham et en ceux qui &eacute;taient avec lui, quand ils dirent &agrave; leur peuple: &laquo;Nous vous d&eacute;savouons, vous et ce que vous adorez en dehors d'Allah. Nous vous renions. Entre vous et nous, l'inimiti&eacute; et la haine sont &agrave; jamais d&eacute;clar&eacute;es jusqu'&agrave; ce que vous croyiez en Allah, seul&raquo;. Exception faite de la parole d'Abraham [adress&eacute;e] &agrave; son p&egrave;re: &laquo;J'implorerai certes, le pardon [d'Allah] en ta faveur bien que je ne puisse rien pour toi aupr&egrave;s d'Allah&raquo;. &laquo;Seigneur, c'est en Toi que nous mettons notre confiance et &agrave; Toi nous revenons [repentants]. Et vers Toi est le Devenir.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a5" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">5</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">رَبَّنا لا تَجعَلنا فِتنَةً لِلَّذينَ كَفَروا وَاغفِر لَنا رَبَّنا ۖ إِنَّكَ أَنتَ العَزيزُ الحَكيمُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Seigneur, ne fais pas de nous [un sujet] de tentation pour ceux qui ont m&eacute;cru; et pardonne-nous, Seigneur, car c'est Toi le Puissant, le Sage&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a6" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">6</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لَقَد كانَ لَكُم فيهِم أُسوَةٌ حَسَنَةٌ لِمَن كانَ يَرجُوا اللَّهَ وَاليَومَ الءاخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الغَنِىُّ الحَميدُ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Vous avez certes eu en eux un bel exemple [&agrave; suivre], pour celui qui esp&egrave;re en Allah et en le Jour dernier; mais quiconque se d&eacute;tourne... alors Allah Se suffit &agrave; Lui-m&ecirc;me et est Digne de louange.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a7" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">7</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">۞ عَسَى اللَّهُ أَن يَجعَلَ بَينَكُم وَبَينَ الَّذينَ عادَيتُم مِنهُم مَوَدَّةً ۚ وَاللَّهُ قَديرٌ ۚ وَاللَّهُ غَفورٌ رَحيمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Il se peut qu'Allah &eacute;tablisse de l'amiti&eacute; entre vous et ceux d'entre eux dont vous avez &eacute;t&eacute; les ennemis. Et Allah est Omnipotent et Allah est Pardonneur et Tr&egrave;s Mis&eacute;ricordieux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a8" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">8</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">لا يَنهىٰكُمُ اللَّهُ عَنِ الَّذينَ لَم يُقٰتِلوكُم فِى الدّينِ وَلَم يُخرِجوكُم مِن دِيٰرِكُم أَن تَبَرّوهُم وَتُقسِطوا إِلَيهِم ۚ إِنَّ اللَّهَ يُحِبُّ المُقسِطينَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allah ne vous d&eacute;fend pas d'&ecirc;tre bienfaisants et &eacute;quitables envers ceux qui ne vous ont pas combattus pour la religion et ne vous ont pas chass&eacute;s de vos demeures. Car Allah aime les &eacute;quitables.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a9" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">9</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">إِنَّما يَنهىٰكُمُ اللَّهُ عَنِ الَّذينَ قٰتَلوكُم فِى الدّينِ وَأَخرَجوكُم مِن دِيٰرِكُم وَظٰهَروا عَلىٰ إِخراجِكُم أَن تَوَلَّوهُم ۚ وَمَن يَتَوَلَّهُم فَأُولٰئِكَ هُمُ الظّٰلِمونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Allah vous d&eacute;fend seulement de prendre pour alli&eacute;s ceux qui vous ont combattus pour la religion, chass&eacute;s de vos demeures et ont aid&eacute; &agrave; votre expulsion. Et ceux qui les prennent pour alli&eacute;s sont les injustes.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a10" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">10</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يٰأَيُّهَا الَّذينَ ءامَنوا إِذا جاءَكُمُ المُؤمِنٰتُ مُهٰجِرٰتٍ فَامتَحِنوهُنَّ ۖ اللَّهُ أَعلَمُ بِإيمٰنِهِنَّ ۖ فَإِن عَلِمتُموهُنَّ مُؤمِنٰتٍ فَلا تَرجِعوهُنَّ إِلَى الكُفّارِ ۖ لا هُنَّ حِلٌّ لَهُم وَلا هُم يَحِلّونَ لَهُنَّ ۖ وَءاتوهُم ما أَنفَقوا ۚ وَلا جُناحَ عَلَيكُم أَن تَنكِحوهُنَّ إِذا ءاتَيتُموهُنَّ أُجورَهُنَّ ۚ وَلا تُمسِكوا بِعِصَمِ الكَوافِرِ وَسـَٔلوا ما أَنفَقتُم وَليَسـَٔلوا ما أَنفَقوا ۚ ذٰلِكُم حُكمُ اللَّهِ ۖ يَحكُمُ بَينَكُم ۚ وَاللَّهُ عَليمٌ حَكيمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>O vous qui avez cru! Quand les croyantes viennent &agrave; vous en &eacute;migr&eacute;es, &eacute;prouvez-les; Allah conna&icirc;t mieux leur foi; si vous constatez qu'elles sont croyantes, ne les renvoyez pas aux m&eacute;cr&eacute;ants. Elles ne sont pas licites [en tant qu'&eacute;pouses] pour eux, et eux non plus ne sont pas licites [en tant qu'&eacute;poux] pour elles. Et rendez-leur ce qu'ils ont d&eacute;pens&eacute; (comme mahr). Il ne vous sera fait aucun grief en vous mariant avec elles quand vous leur aurez donn&eacute; leur mahr. Et ne gardez pas de liens conjugaux avec les m&eacute;cr&eacute;antes. R&eacute;clamez ce que vous avez d&eacute;pens&eacute; et que (les m&eacute;cr&eacute;ants) aussi r&eacute;clament ce qu'ils ont d&eacute;pens&eacute;. Tel est le jugement d'Allah par lequel Il juge entre vous, et Allah est Omniscient et Sage.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a11" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">11</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">وَإِن فاتَكُم شَيءٌ مِن أَزوٰجِكُم إِلَى الكُفّارِ فَعاقَبتُم فَـٔاتُوا الَّذينَ ذَهَبَت أَزوٰجُهُم مِثلَ ما أَنفَقوا ۚ وَاتَّقُوا اللَّهَ الَّذى أَنتُم بِهِ مُؤمِنونَ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>Et si quelqu'une de vos &eacute;pouses s'&eacute;chappe vers les m&eacute;cr&eacute;ants, et que vous fassiez des repr&eacute;sailles, restituez &agrave; ceux dont les &eacute;pouses sont parties autant que ce qu'ils avaient d&eacute;pens&eacute;. Craignez Allah en qui vous croyez.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a12" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">12</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options"></div>
+<div class="quran-content">يٰأَيُّهَا النَّبِىُّ إِذا جاءَكَ المُؤمِنٰتُ يُبايِعنَكَ عَلىٰ أَن لا يُشرِكنَ بِاللَّهِ شَيـًٔا وَلا يَسرِقنَ وَلا يَزنينَ وَلا يَقتُلنَ أَولٰدَهُنَّ وَلا يَأتينَ بِبُهتٰنٍ يَفتَرينَهُ بَينَ أَيديهِنَّ وَأَرجُلِهِنَّ وَلا يَعصينَكَ فى مَعروفٍ ۙ فَبايِعهُنَّ وَاستَغفِر لَهُنَّ اللَّهَ ۖ إِنَّ اللَّهَ غَفورٌ رَحيمٌ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>O Proph&egrave;te! Quand les croyantes viennent te pr&ecirc;ter serment d'all&eacute;geance, [et en jurent] qu'elles n'associeront rien &agrave; Allah, qu'elles ne voleront pas, qu'elles ne se livreront pas &agrave; l'adult&egrave;re, qu'elles ne tueront pas leurs propres enfants, qu'elles ne commettront aucune infamie ni avec leurs mains ni avec leurs pieds et qu'elles ne d&eacute;sob&eacute;iront pas en ce qui est convenable, alors re&ccedil;ois leur serment d'all&eacute;geance, et implore d'Allah le pardon pour elles. Allah est certes, Pardonneur et Tr&egrave;s Mis&eacute;ricordieux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section>
+<div class="verse-wrapper" id="a13" onclick="ayaclick(this.parentNode,1);">
+<div class="verse-number">13</div>
+</div>
+<div class="content-wrapper" onmouseover="this.children[0].appendChild(OQP.ayabar);">
+<div class="verse-options">
+<div>
+<p></p>
+</div>
+</div>
+<div class="quran-content">يٰأَيُّهَا الَّذينَ ءامَنوا لا تَتَوَلَّوا قَومًا غَضِبَ اللَّهُ عَلَيهِم قَد يَئِسوا مِنَ الءاخِرَةِ كَما يَئِسَ الكُفّارُ مِن أَصحٰبِ القُبورِ</div>
+<div class="trans-wrapper">
+<div class="trans-content-wrapper">
+<h2 class="trans-content-ltr">MUHAMMAD HAMIDULLAH</h2>
+<div class="trans-content-ltr">
+<p>O vous qui avez cru! Ne prenez pas pour alli&eacute;s des gens contre lesquels Allah est courrouc&eacute; et qui d&eacute;sesp&egrave;rent de l'au-del&agrave;, tout comme les m&eacute;cr&eacute;ants d&eacute;sesp&egrave;rent des gens des tombeaux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</article>
+</div>
+
+
+
+</body>
+
+
+</html>
