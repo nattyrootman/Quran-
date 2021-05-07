@@ -58,6 +58,8 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
     EditText editText;
    int p =0;
 
+    SharedPreferences.Editor edit;
+
     public coranMp33() {
     }
 
@@ -176,6 +178,9 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
         playerView.playAudio(playerView.getMyPlaylist().get(p));
 
         playerView.createNotification(R.drawable.cali3);
+
+        edit.commit();
+
 
 
 
