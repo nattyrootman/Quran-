@@ -87,7 +87,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
 
            setModels();
 
-
+          setMe();
 
 
 
@@ -103,7 +103,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
         SharedPreferences preferences=getActivity().getSharedPreferences("f", Context.MODE_PRIVATE);
 
     SharedPreferences.Editor   editor=preferences.edit();
-        p=preferences.getInt("key",p);
+        p=preferences.getInt("key",0);
 
         playerView.playAudio(playerView.getMyPlaylist().get(p));
     }
@@ -173,13 +173,13 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
     public void Click(int po) {
 
 
-        p=po;
+      p=po;
 
         playerView.playAudio(playerView.getMyPlaylist().get(p));
 
         playerView.createNotification(R.drawable.cali3);
 
-        edit.commit();
+
 
 
 
