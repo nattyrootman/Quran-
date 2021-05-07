@@ -56,7 +56,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
     ImageView imageView;
 
     EditText editText;
-   int p ;
+   int po ;
 
     SharedPreferences.Editor edit;
 
@@ -98,19 +98,8 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
     }
 
 
-    @Override
-    public void onStart() {
-        super.onStart();
-
-        SharedPreferences preferences=getActivity().getSharedPreferences("f", Context.MODE_PRIVATE);
-
-        SharedPreferences.Editor   editor=preferences.edit();
-        p=preferences.getInt("key",0);
-
-        playerView.playAudio(playerView.getMyPlaylist().get(p));
 
 
-    }
 
     private void setModels() {
 
@@ -157,22 +146,15 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
 
 
     @Override
-    public void Click(int po) {
+    public void Click(int p) {
 
 
-        playerView.playAudio(playerView.getMyPlaylist().get(po));
+        playerView.playAudio(playerView.getMyPlaylist().get(p));
 
         playerView.createNotification(R.drawable.cali3);
 
 
 
-        SharedPreferences preferences=getActivity().getSharedPreferences("f", Context.MODE_PRIVATE);
-
-        SharedPreferences.Editor   editor=preferences.edit();
-
-        edit.putInt("key",po);
-
-       edit.commit();
 
 
 
