@@ -2,6 +2,7 @@ package com.example.quranmp3;
 
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.SharedPreferences;
 import android.net.ConnectivityManager;
 import android.net.Network;
 import android.net.NetworkInfo;
@@ -55,7 +56,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
     ImageView imageView;
 
     EditText editText;
-
+   int p =0;
 
     public coranMp33() {
     }
@@ -85,18 +86,42 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
            setModels();
 
 
+
+
+
            MyAdapter.setClickList(this);
 
         return view;
 
     }
 
+    private void setMe(){
+
+
+        SharedPreferences preferences=getActivity().getSharedPreferences("f", Context.MODE_PRIVATE);
+
+    SharedPreferences.Editor   editor=preferences.edit();
+        p=preferences.getInt("key",0);
+
+        playerView.playAudio(playerView.getMyPlaylist().get(p));
+    }
+
+
     @Override
     public void onDestroy() {
         super.onDestroy();
 
 
-        playerView.kill();
+
+        SharedPreferences preferences= getActivity().getSharedPreferences("f", Context.MODE_PRIVATE);
+
+        SharedPreferences.Editor edit=preferences.edit();
+
+        edit.putInt("key",p);
+
+        edit.commit();
+
+
     }
 
     private void setModels() {
@@ -108,12 +133,9 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
 
                     playerView.initPlaylist(jcAudios, null);
 
-
                 myAdapter = new MyAdapter(getContext());
 
                 myAdapter.setAudioList(jcAudios);
-
-
                 recyclerView.setAdapter(myAdapter);
 
 
@@ -147,9 +169,10 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
 
 
     @Override
-    public void Click(int p) {
+    public void Click(int po) {
 
 
+        p=po;
 
         playerView.playAudio(playerView.getMyPlaylist().get(p));
 
