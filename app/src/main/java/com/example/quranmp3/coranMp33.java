@@ -87,7 +87,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
 
            setModels();
 
-             setMe();
+
 
 
 
