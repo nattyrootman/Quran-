@@ -42,7 +42,7 @@ import java.util.List;
 import static androidx.recyclerview.widget.LinearLayoutManager.VERTICAL;
 
 
-public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlayerManagerListener {
+public class coranMp33 extends Fragment implements MyAdapter.OnClickList{
 
 
     MyAdapter myAdapter;
@@ -168,45 +168,4 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
 
 
 
-
-    @Override
-    public void onCompletedAudio() {
-
-    }
-
-    @Override
-    public void onContinueAudio(JcStatus jcStatus) {
-
-    }
-
-    @Override
-    public void onJcpError(Throwable throwable) {
-
-    }
-
-    @Override
-    public void onPaused(JcStatus jcStatus) {
-
-    }
-
-    @Override
-    public void onPlaying(JcStatus jcStatus) {
-
-
-    }
-
-    @Override
-    public void onPreparedAudio(JcStatus jcStatus) {
-
-    }
-
-    @Override
-    public void onStopped(JcStatus jcStatus) {
-
-    }
-
-    @Override
-    public void onTimeChanged(JcStatus jcStatus) {
-
-    }
 }
