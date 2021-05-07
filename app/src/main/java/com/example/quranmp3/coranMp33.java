@@ -56,7 +56,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList,JcPlaye
     ImageView imageView;
 
     EditText editText;
-   int p =0;
+   int p ;
 
     SharedPreferences.Editor edit;
 
