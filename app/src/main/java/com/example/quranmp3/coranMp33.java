@@ -89,8 +89,7 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList{
 
 
            MyAdapter.setClickList(this);
-        playerView =view.findViewById(R.id.jc);
-        recyclerView = view.findViewById(R.id.recycle);
+
 
         return view;
 
