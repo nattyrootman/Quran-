@@ -89,9 +89,8 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList{
 
 
            MyAdapter.setClickList(this);
-
-
-
+        playerView =view.findViewById(R.id.jc);
+        recyclerView = view.findViewById(R.id.recycle);
 
         return view;
 
@@ -155,8 +154,21 @@ public class coranMp33 extends Fragment implements MyAdapter.OnClickList{
 
 
 
+    }
 
 
+
+
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+
+        playerView.getMyPlaylist();
+       playerView.getCurrentAudio().getPosition();
+
+
+       playerView.kill();
 
     }
 
